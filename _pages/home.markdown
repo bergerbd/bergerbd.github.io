@@ -23,8 +23,8 @@ After my graduation, I worked for [Axivion GmbH](https://www.axivion.com/en/) fo
 two years. Axivion is a static code analysis company, and their tools deal with
 inner software quality aspects. In my time at Axivion, I worked on different
 parts of their tool suite, starting with the frontends, scripting binding, and
-their web frontend. I also took part in workshops with customers regularly and
-got an insight into their software development processes. After two years, I
+their web interface. I also took part in workshops with customers regularly and
+gained insight into their software development processes. After two years, I
 decided to return to academia and focus on research.
 
 ## PhD Topic    
@@ -43,8 +43,8 @@ visit the [ArchSec homepage](https://archsec.de).
 
 ## Further Research
 My PhD thesis took quite a while because of several additional research topics I
-worked on. Besides of writing grant proposals, I already looked after research
-projects related to static analysis and software security.
+worked on. Besides of writing grant proposals, I already advised colleagues working
+ond different research projects related to static analysis and software security.
 
 In the last years, I started to use static analyses to extract different security
 aspects of software systems. [SeeAuthZ](https://github.com/uni-bremen-agst/SeeAuthZ),
