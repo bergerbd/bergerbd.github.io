@@ -1,0 +1,16 @@
+Bernhard Berger:
+    name:     "Bernhard J. Berger"
+    avatar:   "/assets/images/me.png"
+    bio:      "Computer Scientist, Software Security, Static Analysis"
+    location: "Bremen, Bremen, Germany"
+#    email: bernhard.berger@uni-bremen.de
+    links:
+      - label: "Website"
+        icon: "fas fa-fw fa-link"
+        url: "https://informatik.uni-bremen.de/~berber"
+      - label: "0000-0001-6093-9229"
+        icon: "fab da-fw fa-orcid"
+        url: "https://orcid.org/0000-0001-6093-9229"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/bergerbd"

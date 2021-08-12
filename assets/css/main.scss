@@ -1,0 +1,67 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* type scale */
+/*
+$type-size-1 : 2.000em;  // ~18x
+$type-size-2 : 2.000em;  // ~16x
+$type-size-3 : 2.750em;  // ~
+$type-size-4 : 2.625em;   // ~18px
+$type-size-5 : 2.500em;    // ~14px
+$type-size-6 : 1.000em;   // ~11px
+$type-size-7 : 1.000em;   // ~9px
+$type-size-8 : 1.000em;      // ~8px
+*/
+
+
+/* original values
+$type-size-1 : 2.441em;  // ~39.056px
+$type-size-2 : 1.953em;  // ~31.248px
+$type-size-3 : 1.563em;  // ~25.008px
+$type-size-4 : 1.25em;   // ~20px
+$type-size-5 : 1em;      // ~16px
+$type-size-6 : 0.75em;   // ~12px
+$type-size-7 : 0.6875em; // ~11px
+$type-size-8 : 0.625em;  // ~10px
+
+$h-size-1: 1.563em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
+
+ */
+
+
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+
+$link-color: #164C99;
+
+@charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: $background-color;
+  font-size: 10px;
+
+  @include breakpoint($medium) {
+    font-size: 12px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 14px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 16px;
+  }
+}
