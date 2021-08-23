@@ -8,6 +8,11 @@ classes: wide
 ---
 
 ## 2021
+_Rodrigue W. Nguempnang, Bernhard J. Berger and Karsten Sohr_. **eNYPD - Entry
+Points Detector - Jakarta Server Faces Use Case**. In Proceedings of the 21th
+IEEE International Working Conference on Source Code Analysis and Manipulation
+(SCAM), IEEE Computer Society Press, 2021 **(accepted for publication)**.
+
 _Christina Plump, Bernhard J. Berger, Rolf Drechsler_. **Improving Evolutionary
 Algorithms by Enhancing an Approximative Fitness Function Through Prediction
 Intervals.** In _2021 IEEE Congress on Evolutionary Computation (CEC)_, 2021.
