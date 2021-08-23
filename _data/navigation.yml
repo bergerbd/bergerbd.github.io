@@ -3,6 +3,8 @@ main:
     url: /
   - title	: "Publications"
     url	   	: /pages/publications
+  - title	: "Tools"
+    url	   	: /pages/tools
   - title	: "Theses"
     url	   	: /pages/theses
   - title	: "Reviews"
