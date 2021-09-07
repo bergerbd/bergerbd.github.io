@@ -1,7 +1,7 @@
 ---
 title: "Supervised Diploma / Master / Bachelor Theses"
 permalink: /pages/theses
-date: 2021-08-12T10:31:00+02:00
+date: 2021-09-07T17:59:00+02:00
 author: Bernhard Berger
 author_profile: true
 classes: wide
@@ -16,10 +16,10 @@ ML-Metadata (working title)**. _Master Thesis_, University of Bremen, 2021.
 _Jan-Niclas de Vries_. **Machine Learning of Callgraph Algorithms (working title)**.
 _Master Thesis_, University of Bremen, 2021.
 
+## 2021
 _Phillipp Schönemann_. **Bestimmung von Datenflüssen in Java-basierten Anwendungen
 für Sicherheitsprüfungen**. _Bachelor Thesis_, University of Bremen, 2021.
 
-## 2021
 _Peer Overbeck_. **Erkennung von Datenschutzrechtsverstößen in Fremdbibliotheken
 mittels Programmanalyse**. _Master Thesis_, University of Bremen, 2021.
 
