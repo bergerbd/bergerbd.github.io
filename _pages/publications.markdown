@@ -8,6 +8,16 @@ classes: wide
 ---
 
 ## 2021
+_Marc Asendorf, Hasanur Jaman Seam, Christian Maeder, Salva Daneshgadeh Çakmakçı
+and Bernhard J. Berger_. **Where are my containers?**. In Proceedings of the first
+European Workshop on Maritime Systems Resilience and Security (MARESEC 2021), 2021
+**(accepted for publication)**.
+
+_Bernhard J. Berger, Christian Maeder and Salva Daneshgadeh Çakmakçı_. **Threat
+Modeling Knowledge for the Maritime Community**. In Proceedings of the first
+European Workshop on Maritime Systems Resilience and Security (MARESEC 2021), 2021
+**(accepted for publication)**.
+
 _Rodrigue W. Nguempnang, Bernhard J. Berger and Karsten Sohr_. **eNYPD - Entry
 Points Detector - Jakarta Server Faces Use Case**. In Proceedings of the 21th
 IEEE International Working Conference on Source Code Analysis and Manipulation
