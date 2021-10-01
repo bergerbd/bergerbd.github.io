@@ -30,7 +30,7 @@ feature_row_rest:
   alt: "Security flaw pictogram."
 ---
 
-{% include feature_row_archsec type="left" %}
+{% include feature_row id="feature_row_archsec" type="left" %}
 
 # CoDaPro
 [CoDaPro](https://codapro.de) stands for component-based data processing and is a tool for data measurement, filtering,
