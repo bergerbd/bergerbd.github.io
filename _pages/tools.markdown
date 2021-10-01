@@ -24,27 +24,29 @@ feature_row_enypd:
   btn_label: "More ..."
   btn_class: "btn--info"
 
-feature_row_rest:
+feature_row_codapro:
 - title: "CoDaPro"
-  excerpt: "*ArchSec* employs more formal dataflow diagrams for representing architectural views of software systems. The core of these extended dataflow diagrams is its extensible schema, allowing them to define new node and edge types and specify implied attributes of such types."
-  image_path: "/assets/images/dataflow-diagram.png"
-  alt: "Exemplary dataflow diagram depiction."
+  excerpt: "*CoDaPro* stands for component-based data processing and is a tool for data measurement, filtering, and preparation."
+  image_path: "/assets/images/logo-codapro.png"
+  alt: "CoDaPro's logo."
+  url: "https://codapro.de"
+  btn_label: "More ..."
+  btn_class: "btn--info"
+
+feature_row_seeauthz:
 - title: "SeeAuthZ"
-  excerpt: "*ArchSec* collects formalised threat descriptions in a knowledge base and automatically detects these threats in extended dataflow diagrams. The knowledge base allows non-security experts to use architectural risk analysis. Still, it offers advantages for security experts since not all security experts know all aspects of security equally well."
-  image_path: "/assets/images/security-flaws.png"
-  alt: "Security flaw pictogram."
+  excerpt: "*SeeAuthZ* is a configurable analysis tool for extracting the implemented authorization policy. Therefore, it extracts the authorization facts the program enforces while accessing a sensitive resource. This information can be used to re-document the authorization policy if the developers lost it or never wrote it  down or compare the implemented authorization policy with the planned policy to identify divergences."
+  image_path: "/assets/images/logo-seeauthz.png
+  alt: "SeeAuthZ' logo."
+  url: "https://github.com/uni-bremen-agst/SeeAuthZ"
+  btn_label: "More ..."
+  btn_class: "btn--info"
 ---
 
 {% include feature_row id="feature_row_archsec" type="left" %}
 
-# CoDaPro
-[CoDaPro](https://codapro.de) stands for component-based data processing and is a tool for data measurement, filtering,
-and preparation.
+{% include feature_row id="feature_row_codapro" type="right" %}
 
 {% include feature_row id="feature_row_enypd" type="left" %}
 
-# SeeAuthZ
-[SeeAuthZ](https://github.com/uni-bremen-agst/SeeAuthZ) is a configurable analysis tool for extracting the implemented
-authorization policy. Therefore, it extracts the authorization facts the program enforces while accessing a sensitive
-resource. This information can be used to re-document the authorization policy if the developers lost it or never wrote
-it  down or compare the implemented authorization policy with the planned policy to identify divergences.
+{% include feature_row id="feature_row_seeauthz" type="right" %}
