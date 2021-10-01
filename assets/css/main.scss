@@ -67,7 +67,7 @@ $link-color: #164C99;
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+/*
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
@@ -86,4 +86,4 @@ html {
     font-size: 16px;
   }
 }
-
+*/
