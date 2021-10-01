@@ -2,20 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-/* type scale */
-/*
-$type-size-1 : 2.000em;  // ~18x
-$type-size-2 : 2.000em;  // ~16x
-$type-size-3 : 2.750em;  // ~
-$type-size-4 : 2.625em;   // ~18px
-$type-size-5 : 2.500em;    // ~14px
-$type-size-6 : 1.000em;   // ~11px
-$type-size-7 : 1.000em;   // ~9px
-$type-size-8 : 1.000em;      // ~8px
-*/
 
-
-/* original values
+/* original values */
 $type-size-1 : 2.441em;  // ~39.056px
 $type-size-2 : 1.953em;  // ~31.248px
 $type-size-3 : 1.563em;  // ~25.008px
@@ -32,24 +20,6 @@ $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
 
- */
-
-$type-size-1 : 3.661em;  // ~39.056px
-$type-size-2 : 2.929em;  // ~31.248px
-$type-size-3 : 2.344em;  // ~25.008px
-$type-size-4 : 1.680em;   // ~20px
-$type-size-5 : 1.500em;      // ~16px
-$type-size-6 : 1.125em;   // ~12px
-$type-size-7 : 1.031em; // ~11px
-$type-size-8 : 0.937em;  // ~10px
-
-$h-size-1: 2.3445em !default; // ~25.008px
-$h-size-2: 1.8750em !default; // ~20px
-$h-size-3: 1.6875em !default; // ~18px
-$h-size-4: 1.5937em !default; // ~17px
-$h-size-5: 1.5468em !default; // ~16.5px
-$h-size-6: 1.5000em !default; // ~16px
-
 
 $serif              : "PT Serif", Georgia, Times, serif;
 $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -58,6 +28,7 @@ $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 
 $link-color: #164C99;
+$info-color: #164C99;
 
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -80,6 +51,11 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px;
   }
+}
+
+.archive__item-title {
+  margin-top: 0.25em;
+  font-size: $type-size-1 !important;
 }
 
 .archive__item-excerpt {
