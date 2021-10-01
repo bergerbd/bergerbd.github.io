@@ -59,31 +59,30 @@ $header-font-family : $sans-serif-narrow;
 
 $link-color: #164C99;
 
+@charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: $background-color;
+  font-size: 12px;
+
+  @include breakpoint($medium) {
+    font-size: 14px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px;
+  }
+}
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
 }
-
-@charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-/*
-html {
-  /* apply a natural box layout model to all elements * /
-  box-sizing: border-box;
-  background-color: $background-color;
-  font-size: 10px;
-
-  @include breakpoint($medium) {
-    font-size: 12px;
-  }
-
-  @include breakpoint($large) {
-    font-size: 14px;
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 16px;
-  }
-}
-*/
