@@ -36,7 +36,7 @@ feature_row_codapro:
 feature_row_seeauthz:
 - title: "SeeAuthZ"
   excerpt: "*SeeAuthZ* is a configurable analysis tool for extracting the implemented authorization policy. Therefore, it extracts the authorization facts the program enforces while accessing a sensitive resource. This information can be used to re-document the authorization policy if the developers lost it or never wrote it  down or compare the implemented authorization policy with the planned policy to identify divergences."
-  image_path: "/assets/images/logo-seeauthz.png
+  image_path: "/assets/images/logo-seeauthz.png"
   alt: "SeeAuthZ' logo."
   url: "https://github.com/uni-bremen-agst/SeeAuthZ"
   btn_label: "More ..."
