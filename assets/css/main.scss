@@ -230,8 +230,6 @@ html {
     }
 
     @include breakpoint($small) {
-//      text-align: center;
-
       .archive__item-teaser {
         margin: 0 auto;
         width: span(3 of 12);
@@ -253,4 +251,13 @@ html {
 
 .archive .feature__wrapper .archive__item-title {
   font-size: $type-size-3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #164C99;
 }
