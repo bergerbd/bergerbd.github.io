@@ -6,10 +6,11 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
-
-
-I am a research assistant and member of the [software engineering group](http://www.informatik.uni-bremen.de/st/index.php?language=en) 
-at the [University of Bremen](https://www.uni-bremen.de) in Germany.
+In September 2021, I left the [University of Bremen](https://www.uni-bremen.de), where
+I was a research assistant and member of the [software engineering group](http://www.informatik.uni-bremen.de/st/index.php?language=en).
+Now, I am a lecturer at the [Hamburg University of Technology](https://www.tuhh.de/alt/tuhh/startpage.html)
+where I am part of the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
+the (Institute of Embedded Systems](https://www.tuhh.de/es/home.html).
 
 ## Current Research
 Currently, I am working on different ideas in the area of software security
@@ -45,7 +46,7 @@ algorithm's part. You can find more details on my publications page.
 ## PhD Topic
 After my diploma thesis, I refocused on the topic of Software Security. In my PhD
 thesis, I focused on automating [Microsoft's Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
-process. The publications can be found in the publications section and on my
+process. The publications can be found in the [publications section](/pages/publications) and on my
 [ResearchGate profile](https://www.researchgate.net/profile/Bernhard-Berger-2).
 The result of my thesis is [ArchSec](https://archsec.de), the _Architectural Security
 Tools Suite_. It is integrated into [Eclipse](https://www.eclipse.org/) and is based
@@ -55,7 +56,6 @@ analyses to extract extended dataflow diagrams automatically. Furthermore, a
 knowledge base was created hosting security flaw patterns. These patterns are
 searched in the extended dataflow diagrams. For more details on _ArchSec_ you can
 visit the [ArchSec homepage](https://archsec.de).
-
 
 ## Industry
 After my graduation, I worked for [Axivion GmbH](https://www.axivion.com/en/) for
@@ -68,11 +68,13 @@ decided to return to academia and focus on research.
 
 
 ## Studies
-I graduated
-in December 2007, and my diploma thesis, which I wrote at [Bosch Corporate Research](https://www.bosch.com/research/),
-deals with clone detection for embedded software systems. The research question I
-dealt with was whether it is possible to reduce the memory footprint of embedded
-software systems using clone detection.
+I graduated in December 2007 from the University of Bremen, and my diploma thesis,  which
+I wrote at [Bosch Corporate Research](https://www.bosch.com/research/), deals with clone
+detection for embedded software systems. The research question I  dealt with was whether
+it is possible to reduce the memory footprint of embedded software systems using clone
+detection. The short answer for this question was: _"No, it is not possible when using
+heavily optimising compilers."_ During my studies, I focused on topics such as software
+engineering, compiler construction, static analysis, and reverse engineering.
 
 
 
