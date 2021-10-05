@@ -10,7 +10,7 @@ In September 2021, I left the [University of Bremen](https://www.uni-bremen.de),
 I was a research assistant and member of the [software engineering group](http://www.informatik.uni-bremen.de/st/index.php?language=en).
 Now, I am a lecturer at the [Hamburg University of Technology](https://www.tuhh.de/alt/tuhh/startpage.html)
 where I am part of the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
-the (Institute of Embedded Systems](https://www.tuhh.de/es/home.html).
+the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html).
 
 ## Current Research
 Currently, I am working on different ideas in the area of software security
