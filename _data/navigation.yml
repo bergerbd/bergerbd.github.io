@@ -9,6 +9,8 @@ main:
     url	   	: /pages/theses
   - title	: "Reviews"
     url	   	: /pages/reviews
+  - title	: "Teaching"
+    url	   	: /pages/teaching
 #  - title: "Posts"
 #    url: /year-archive/
 #  - title: "Categories"

@@ -7,16 +7,31 @@ author_profile: true
 classes: wide
 layout: home
 ---
+## Winter Term 2021
+_Computer Science for Engineers_. **Prof. Dr. Görschwin Fey, Dipl. Inf.
+Bernhard  J. Berger, M. Sc. Lutz Schammer and M.Sc. Swantje Plambeck**.
+Hamburg University of Technology. 
 
-## winter term 2020
+## Winter Term 2020
+_Software Project 2_. **Dr. Hui Shi, Amadou and Dr. Karsten Hölscher**. 
+University of Bremen.
 
-## summer term 2020
+## Summer Term 2020
+_Software Project 1_. **Dr. Hui Shi, Amadou and Dr. Karsten Hölscher**.
+University of Bremen.
 
-## winter term 2019
+## Winter Term 2019
+_Software Project 2_. **Prof. Dr Rainer Koschke and Bernhard J. Berger**.
+University of Bremen.
 
-## summer term 2019
+## Summer Term 2019
+_Software Project 1_. **Prof. Dr Rainer Koschke and Bernhard J. Berger**.
+University of Bremen.
 
-## winter term 2018
+## Winter Term 2018
+_Software Project 1_. **Prof. Dr Rainer Koschke and Marcel Steinbeck**.
+University of Bremen.
 
-## summer term 2018
-**Software Project 1**
+## Summer Term 2018
+_Software Project 1_. **Prof. Dr Rainer Koschke and Marcel Steinbeck**.
+University of Bremen.
