@@ -1,6 +1,6 @@
 ---
-title: "Reviews"
-permalink: /pages/reviews
+title: "Academic Service"
+permalink: /pages/service
 date: 2021-09-07T18:01:00+02:00
 author: Bernhard Berger
 author_profile: true
@@ -8,6 +8,8 @@ classes: wide
 ---
 
 ## 2022
+Reviewer for the Journal ***Science of Computer Programming***, ScienceDirect.
+
 _Program Committee member_ at the **European Workshop on Maritime Systems Resilience
 and Security (MARESEC)**, 2022. 
 

@@ -7,8 +7,8 @@ main:
     url	   	: /pages/tools
   - title	: "Theses"
     url	   	: /pages/theses
-  - title	: "Reviews"
-    url	   	: /pages/reviews
+  - title	: "Academic Service"
+    url	   	: /pages/service
   - title	: "Teaching"
     url	   	: /pages/teaching
 #  - title: "Posts"
