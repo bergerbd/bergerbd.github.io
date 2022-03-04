@@ -9,12 +9,9 @@ layout: home
 ---
 
 ## In Progress
-_Moritz Orth_. **Development of a FAIR Infrastructure for Storing and Structuring
-ML-Metadata (working title)**. _Master Thesis_, University of Bremen, 2021.
-
-
-_Jan-Niclas de Vries_. **Machine Learning of Callgraph Algorithms (working title)**.
-_Master Thesis_, University of Bremen, 2021.
+_Moritz Orth_. **Proving Semantic Web technologies for organizing research
+data in the context of a project on ML-based static application security
+testing of C code**. _Master Thesis_, University of Bremen, 2022.
 
 ## 2021
 _Phillipp Schönemann_. **Bestimmung von Datenflüssen in Java-basierten Anwendungen
