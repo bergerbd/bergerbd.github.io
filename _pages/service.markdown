@@ -8,18 +8,17 @@ classes: wide
 ---
 
 ## 2022
-Reviewer for the Journal ***[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)***, ScienceDirect.
+Reviewer for the Journal ***[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)***, ScienceDirect, 2022.
 
 _Program Committee member_ at the **[European Workshop on Maritime Systems Resilience and Security (MARESEC)](https://dlr.expert/maresec2022)**, 2022. 
 
 _Program Committee member_ at the **[Mining Software Repositories Conference (MSR)](https://conf.researchr.org/home/msr-2022)**, 2022. 
 
 ## 2021
-Reviewer for the Journal ***[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)***, ScienceDirect.
+Reviewer for the Journal ***[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)***, ScienceDirect, 2021.
 
 ## 2018
-_Artifact Evaluation Committee member_ at the **ACM SIGSOFT International Symposium on Software Testing and Analysis
-(ISSTA)**.
+_Artifact Evaluation Committee member_ at the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2018)**, 2018.
 
 ## 2017
-Reviewer for the **IEEE Transactions on Software Engineering**.
+Reviewer for the Journal **[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)**, IEEE.
