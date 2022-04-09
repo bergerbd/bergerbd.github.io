@@ -24,7 +24,7 @@ finding application's entry-points.
 ## Further Research
 My PhD thesis took quite a while because of several additional research topics I
 worked on. Besides of writing grant proposals, I already advised colleagues working
-ond different research projects related to static analysis and software security.
+on different research projects related to static analysis and software security.
 
 In the last years, I started to use static analyses to extract different security
 aspects of software systems. [SeeAuthZ](https://github.com/uni-bremen-agst/SeeAuthZ),

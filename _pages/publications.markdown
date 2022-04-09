@@ -8,11 +8,15 @@ classes: wide
 ---
 
 ## 2022
+_Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
+[Doctoral Thesis](https://doi.org/10.26092/elib/1453), 2022.
+
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
 search-space restrictions in evolutionary algorithms**. In _Proceedings of the
 8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022 **(accepted
 for publication)**.
+
 
 ## 2021
 _Marc Asendorf, Hasanur Jaman Seam, Christian Maeder, Salva Daneshgadeh Çakmakçı
@@ -28,7 +32,7 @@ European Workshop on Maritime Systems Resilience and Security
 _Rodrigue W. Nguempnang, Bernhard J. Berger and Karsten Sohr_. **eNYPD - Entry
 Points Detector - Jakarta Server Faces Use Case**. In _Proceedings of the 21th
 IEEE International Working Conference on Source Code Analysis and Manipulation
-(SCAM)_, IEEE Computer Society Press, 2021 **(accepted for publication)**.
+(SCAM)_, IEEE Computer Society Press, 2021.
 
 _Christina Plump, Bernhard J. Berger, Rolf Drechsler_. **Improving Evolutionary
 Algorithms by Enhancing an Approximative Fitness Function Through Prediction
