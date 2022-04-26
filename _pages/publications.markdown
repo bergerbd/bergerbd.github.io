@@ -8,6 +8,11 @@ classes: wide
 ---
 
 ## 2022
+_Christina Plump, Bernhard Berger and Rolf Drechsler_. **Using density of
+training data to improve evolutionary algorithms with approximative fitness
+functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022
+**(accepted for publication)**.
+
 _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
 [Doctoral Thesis](https://doi.org/10.26092/elib/1453), 2022.
 
