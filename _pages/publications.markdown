@@ -13,14 +13,17 @@ training data to improve evolutionary algorithms with approximative fitness
 functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022
 **(accepted for publication)**.
 
+_Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Adapting mutation and recombination operators to range-aware relations in real-world application data**.
+In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2022
+**(accepted for publication)**.
+
 _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
 [Doctoral Thesis](https://doi.org/10.26092/elib/1453), 2022.
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
 search-space restrictions in evolutionary algorithms**. In _Proceedings of the
-8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022 **(accepted
-for publication)**.
+8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022.
 
 
 ## 2021
