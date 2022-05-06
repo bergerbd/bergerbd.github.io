@@ -23,7 +23,7 @@ _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
 search-space restrictions in evolutionary algorithms**. In _Proceedings of the
-8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022.
+8th International Conference on Dynamics in Logistics – LDIC 2022_, [DOI: 10.1007/978-3-031-05359-7_28](https://link.springer.com/chapter/10.1007/978-3-031-05359-7_28), 2022.
 
 
 ## 2021
