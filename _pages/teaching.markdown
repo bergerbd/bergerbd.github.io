@@ -8,7 +8,7 @@ classes: wide
 layout: home
 ---
 ## Summer Term 2022
-_Computer Science for Engineers, revision course_. ** Dr. rer. nat.
+_Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
 of Technology. 
 
