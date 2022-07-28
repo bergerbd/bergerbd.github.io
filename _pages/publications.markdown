@@ -25,7 +25,7 @@ and recombination operators to range-aware relations in real-world application d
 In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2022.
 
 _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
-Doctoral Thesis, [DOI: 10.26092/elib/1453](https://doi.org/10.26092/elib/1453){: .doi}, 2022.
+Doctoral Thesis, [DOI](https://doi.org/10.26092/elib/1453){: .doi}, 2022.
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
