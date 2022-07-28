@@ -13,7 +13,7 @@ _Lorenz Hüther, Bernhard J. Berger, Stefan Edelkamp, Sebastian Eken, Lara
 Luhrmann, Hendrik Rothe, Marcus-Sebastian Schröder and Karsten Sohr_.
 **Machine Learning in the Context of Static Application Security Testing -
 ML-SAST**. Editor: _Federal Office for Information Security_.
-[Online](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/ML-SAST/ML-SAST-Studie.html?nn=1067938), 2022.
+[Online](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/ML-SAST/ML-SAST-Studie.html?nn=1067938){: .online}, 2022.
 
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
