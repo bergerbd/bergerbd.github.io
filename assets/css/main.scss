@@ -252,11 +252,32 @@ html {
   text-decoration: none;
 }
 
-.doi:after {
-  content: 'DOI';
+
+/* unvisited link */
+.doi:link {
+  color: white;
+  text-decoration: none;
 }
 
-.archive__item-excerpt {
+/* visited link */
+.doi:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+.doi:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* selected link */
+.doi:active {
+  color: white;
+  text-decoration: none;
+}
+
+ .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
 }
