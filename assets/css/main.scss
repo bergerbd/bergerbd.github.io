@@ -242,18 +242,18 @@ html {
       }
     }
   }
+}
 
-  .doi  {
-    color: #FFFFFF;
-    background-color: #164C99;
-    padding: 2px 10px;
-    border-radius: 10px;
-    text-decoration: none;
-  }
-  
-  .doi:after {
-    content: 'DOI';
-  }
+.doi  {
+  color: #FFFFFF;
+  background-color: #164C99;
+  padding: 2px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.doi:after {
+  content: 'DOI';
 }
 
 .archive__item-excerpt {
