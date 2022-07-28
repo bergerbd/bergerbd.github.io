@@ -8,15 +8,21 @@ classes: wide
 ---
 
 ## 2022
+
+_Lorenz Hüther, Bernhard J. Berger, Stefan Edelkamp, Sebastian Eken, Lara
+Luhrmann, Hendrik Rothe, Marcus-Sebastian Schröder and Karsten Sohr_.
+**Machine Learning in the Context of Static Application Security Testing -
+ML-SAST**. Editor: _Federal Office for Information Security_.
+[Online](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/ML-SAST/ML-SAST-Studie.html?nn=1067938), 2022.
+
+
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
 training data to improve evolutionary algorithms with approximative fitness
-functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022
-**(accepted for publication)**.
+functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022.
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Adapting mutation
 and recombination operators to range-aware relations in real-world application data**.
-In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2022
-**(accepted for publication)**.
+In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2022.
 
 _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
 Doctoral Thesis, [DOI: 10.26092/elib/1453](https://doi.org/10.26092/elib/1453), 2022.
