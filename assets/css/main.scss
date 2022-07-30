@@ -258,25 +258,21 @@ html {
 /* unvisited link */
 .doi:link {
   color: white;
-  text-decoration: none;
 }
 
 /* visited link */
 .doi:visited {
   color: white;
-  text-decoration: none;
 }
 
 /* mouse over link */
 .doi:hover {
   color: white;
-  text-decoration: none;
 }
 
 /* selected link */
 .doi:active {
   color: white;
-  text-decoration: none;
 }
 
 .online  {
@@ -289,30 +285,46 @@ html {
   font-size: 60%;
 }
 
-
 /* unvisited link */
 .online:link {
   color: white;
-  text-decoration: none;
 }
 
 /* visited link */
 .online:visited {
   color: white;
-  text-decoration: none;
 }
 
 /* mouse over link */
 .online:hover {
   color: white;
-  text-decoration: none;
 }
 
 /* selected link */
 .online:active {
   color: white;
+}
+
+/* unvisited link */
+a:link {
   text-decoration: none;
 }
+
+/* visited link */
+a:visited {
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  text-decoration: none;
+}
+
 
  .archive__item-excerpt {
   margin-top: 0;

@@ -8,7 +8,7 @@ classes: wide
 ---
 
 ## 2022
-_Sub-reviewer_ for the **[IEEE/ACM 2022 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com), 2022.
+_Sub-reviewer_ for the **[IEEE/ACM 2022 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com)**, 2022.
 
 _Program Committee member_ for the **[International Workshop on Designing and Measuring CyberSecurity in Software Architectures (DeMeSSA)](https://sites.google.com/view/demessa-ecsa-2022/)**, 2022. 
 
