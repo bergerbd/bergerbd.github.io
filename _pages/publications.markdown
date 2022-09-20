@@ -17,7 +17,7 @@ ML-SAST**. Editor: _Federal Office for Information Security_, 2022. [Online](htt
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
 training data to improve evolutionary algorithms with approximative fitness
-functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022.
+functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022. [DOI](https://doi.org/10.1109/CEC55065.2022.9870352){: .chip .doi}
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Adapting mutation
 and recombination operators to range-aware relations in real-world application data**.
