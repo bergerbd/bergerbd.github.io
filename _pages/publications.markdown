@@ -8,12 +8,10 @@ classes: wide
 ---
 
 ## 2022
-
 _Lorenz Hüther, Bernhard J. Berger, Stefan Edelkamp, Sebastian Eken, Lara
 Luhrmann, Hendrik Rothe, Marcus-Sebastian Schröder and Karsten Sohr_.
 **Machine Learning in the Context of Static Application Security Testing -
 ML-SAST**. Editor: _Federal Office for Information Security_, 2022. [Online](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/ML-SAST/ML-SAST-Studie.html?nn=1067938){: .chip .online}
-
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
 training data to improve evolutionary algorithms with approximative fitness

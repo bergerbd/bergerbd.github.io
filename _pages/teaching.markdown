@@ -7,6 +7,13 @@ author_profile: true
 classes: wide
 layout: home
 ---
+## Winter Term 2022
+_Computer Science for Engineers_. **Prof. Dr. Görschwin Fey and Dr. rer. nat.
+Bernhard  J. Berger**. Hamburg University of Technology. 
+
+_Bridge Course Computer Science_. **Prof. Dr. Görschwin Fey and Dr. rer. nat.
+Bernhard  J. Berger**. Hamburg University of Technology. 
+
 ## Summer Term 2022
 _Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University

@@ -8,10 +8,10 @@ classes: wide
 layout: home
 ---
 
-## In Progress
-_Moritz Orth_. **Proving Semantic Web technologies for organizing research
-data in the context of a project on ML-based static application security
-testing of C code**. _Master Thesis_, University of Bremen, 2022.
+## 2022
+_Moritz Orth_. **Testing of Semantic Web technologies for structuring research
+data in the context of a project for ML-based static security analysis of C
+code**. _Master Thesis_, University of Bremen, 2022.
 
 ## 2021
 _Phillipp Schönemann_. **Bestimmung von Datenflüssen in Java-basierten Anwendungen
