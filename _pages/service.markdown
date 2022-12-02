@@ -6,6 +6,8 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+## 2023
+_Program Committee member_ for the **[31st ACM/IEEE International Conference on Program Comprehension (ICPC 2023)](https://conf.researchr.org/home/icpc-2023)**, 2023. 
 
 ## 2022
 _Sub-reviewer_ for the **[IEEE/ACM 2022 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com)**, 2022.
