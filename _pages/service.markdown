@@ -7,6 +7,11 @@ author_profile: true
 classes: wide
 ---
 ## 2023
+_Member of_ the **Working Group Cumulative Doctorate** at the Hamburg University of Technology, 2023.
+
+Reviewer for the Journal **[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)**, IEEE.
+
+
 _Program Committee member_ for the **[31st ACM/IEEE International Conference on Program Comprehension (ICPC 2023)](https://conf.researchr.org/home/icpc-2023)**, 2023. 
 
 ## 2022
