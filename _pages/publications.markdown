@@ -7,6 +7,14 @@ author_profile: true
 classes: wide
 ---
 
+## 2023
+_Christina Plump, Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver Prozesse - Eine Kodierungstechnik für repetitive Prozesse in der evolutionären Optimierung**. Industrie 4.0 Management, 2023 **(accepted for publication)**.
+
+_Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023 **(accepted for publication)**.
+
+_Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **DoCNeL: Detection of Crucial Neurons Guided by Layer-wise Relevance Propagation**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023 **(accepted for publication)**.
+
+
 ## 2022
 _Lorenz Hüther, Bernhard J. Berger, Stefan Edelkamp, Sebastian Eken, Lara
 Luhrmann, Hendrik Rothe, Marcus-Sebastian Schröder and Karsten Sohr_.
