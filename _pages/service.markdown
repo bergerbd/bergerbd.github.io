@@ -7,6 +7,8 @@ author_profile: true
 classes: wide
 ---
 ## 2023
+Reviewer for the Journal **[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)**, ScienceDirect, 2023.
+
 _Member of_ the **Working Group Cumulative Doctorate** at the Hamburg University of Technology, 2023.
 
 Reviewer for the Journal **[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)**, IEEE.
