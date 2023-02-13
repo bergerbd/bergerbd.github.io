@@ -10,7 +10,7 @@ classes: wide
 ## 2023
 _Christina Plump, Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver
 Prozesse - Eine Kodierungstechnik für repetitive Prozesse in der evolutionären 
-Optimierung**. Industrie 4.0 Management, 2023. [DOI](https://doi.org/10.30844/IM_23-1_19-22)
+Optimierung**. Industrie 4.0 Management, 2023. [DOI](https://doi.org/10.30844/IM_23-1_19-22){: .chip .online}
 
 _Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System
 Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen
