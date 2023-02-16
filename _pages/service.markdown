@@ -7,6 +7,8 @@ author_profile: true
 classes: wide
 ---
 ## 2023
+_Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2023)**, 2023.
+
 _Program Committee member_ for the **[European Workshop on Maritime Systems Resilience and Security (MARESEC)](https://dlr.expert/maresec2023)**, 2023. 
 
 Reviewer for the Journal **[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)**, ScienceDirect, 2023.
