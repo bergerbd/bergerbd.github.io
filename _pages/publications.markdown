@@ -14,12 +14,11 @@ Optimierung**. Industrie 4.0 Management, 2023. [DOI](https://doi.org/10.30844/IM
 
 _Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System
 Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen
-und Systemen (TUZ), 2023 **(accepted for publication)**.
+und Systemen (TUZ), 2023.
 
 _Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **DoCNeL: Detection
 of Crucial Neurons Guided by Layer-wise Relevance Propagation**. GI/GMM/ITG-Workshop
-für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023
-**(accepted for publication)**.
+für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023.
 
 
 ## 2022
