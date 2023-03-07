@@ -6,7 +6,7 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 
-feature_row_archsec:
+feature_row_evoal:
 - title: "EvoAl"
   excerpt: "*EvoAl* is a tool suite that focuses on optimisation. *EvoAl* aims
     at making optimisation research accessible to applied researchers without
@@ -18,6 +18,7 @@ feature_row_archsec:
   btn_label: "More ..."
   btn_class: "btn--info"
   
+feature_row_archsec:
 - title: "ArchSec"
   excerpt: "*ArchSec* automates Microsoft's Threat Modeling process in two ways: First, it automatically extracts architectural views for component-based software systems. Second, it is capable of automatically identifying security flaws in architectural views."
   image_path: "/assets/images/logo-archsec.png"
@@ -53,6 +54,10 @@ feature_row_seeauthz:
   btn_label: "More ..."
   btn_class: "btn--info"
 ---
+
+{% include feature_row id="feature_row_evoal" type="left" %}
+
+{% include feature_row id="feature_row_archsec" type="right" %}
 
 {% include feature_row id="feature_row_archsec" type="left" %}
 
