@@ -59,10 +59,8 @@ feature_row_seeauthz:
 
 {% include feature_row id="feature_row_archsec" type="right" %}
 
-{% include feature_row id="feature_row_archsec" type="left" %}
+{% include feature_row id="feature_row_codapro" type="left" %}
 
-{% include feature_row id="feature_row_codapro" type="right" %}
+{% include feature_row id="feature_row_enypd" type="right" %}
 
-{% include feature_row id="feature_row_enypd" type="left" %}
-
-{% include feature_row id="feature_row_seeauthz" type="right" %}
+{% include feature_row id="feature_row_seeauthz" type="left" %}
