@@ -7,6 +7,17 @@ author_profile: true
 classes: wide
 
 feature_row_archsec:
+- title: "EvoAl"
+  excerpt: "*EvoAl* is a tool suite that focuses on optimisation. *EvoAl* aims
+    at making optimisation research accessible to applied researchers without
+    plenty of programming skills. Furthermore, it focuses on easy extensibility
+    and maintainability, allowing the research community to develop EvoAl further."
+  image_path: "/assets/images/logo-evoal.png"
+  alt: "EvoAl's logo."
+  url: "https://www.evoal.de"
+  btn_label: "More ..."
+  btn_class: "btn--info"
+  
 - title: "ArchSec"
   excerpt: "*ArchSec* automates Microsoft's Threat Modeling process in two ways: First, it automatically extracts architectural views for component-based software systems. Second, it is capable of automatically identifying security flaws in architectural views."
   image_path: "/assets/images/logo-archsec.png"
