@@ -1,5 +1,5 @@
 ---
-title: "Supervised Diploma / Master / Bachelor Theses"
+title: "Supervised Diploma / Master / Project / Bachelor Theses"
 permalink: /pages/theses
 date: 2021-09-07T17:59:00+02:00
 author: Bernhard Berger
@@ -7,6 +7,9 @@ author_profile: true
 classes: wide
 layout: home
 ---
+## 2023
+_Danny Cam Hoa Tien_. **Graph-Database Modeling of an Extended Dataflow Diagram**.
+_Project Thesis_, Hamburg University of Technology, 2023.
 
 ## 2022
 _Moritz Orth_. **Testing of Semantic Web technologies for structuring research
