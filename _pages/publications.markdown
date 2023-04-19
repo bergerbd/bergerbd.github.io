@@ -8,17 +8,26 @@ classes: wide
 ---
 
 ## 2023
-_Christina Plump, Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver
+_Bernhard J. Berger, Christina Plump, Rolf Drechsler_. **EvoAl: A domain-specific
+language-based approach to optimisation**. In _2023 IEEE Congress on Evolutionary
+Computation (CEC)_, 2023 **(accepted for publication)**. 
+
+_Goerschwin Fey, Swantje Plambeck and Bernhard J. Berger_. **QMESy: Towards Quality
+Measurement for Explanations in System Design**. _Workshop on Intelligent Methods for
+Test and Reliability_, 2023 **(workshop contribution)**.
+
+
+_Christina Plump and Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver
 Prozesse - Eine Kodierungstechnik für repetitive Prozesse in der evolutionären 
 Optimierung**. Industrie 4.0 Management, 2023. [DOI](https://doi.org/10.30844/IM_23-1_19-22){: .chip .doi}
 
 _Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System
 Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen
-und Systemen (TUZ), 2023.
+und Systemen (TUZ), 2023 **(workshop contribution)**.
 
 _Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **DoCNeL: Detection
 of Crucial Neurons Guided by Layer-wise Relevance Propagation**. GI/GMM/ITG-Workshop
-für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023.
+für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023 **(workshop contribution)**.
 
 
 ## 2022
