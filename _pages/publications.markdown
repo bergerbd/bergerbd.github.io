@@ -8,7 +8,11 @@ classes: wide
 ---
 
 ## 2023
-_Bernhard J. Berger, Christina Plump, Rolf Drechsler_. **EvoAl: A domain-specific
+_Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **GLRP: Guided by Layer-wise Relevance Propagation – Selecting Crucial Neurons in Artificial Neural Networks**. In _International Conference on Modern Circuits and Systems Technologies (MOCAST) on Electronics and Communications_, 2023 **(accepted for publication)**.
+
+_Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Repetitive Processes and Their Surrogate-Model Congruent Encoding for Evolutionary Algorithms - A Theoretic Proposal**. _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2023 **(accepted for publication)**.
+
+_Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl: A domain-specific
 language-based approach to optimisation**. In _2023 IEEE Congress on Evolutionary
 Computation (CEC)_, 2023 **(accepted for publication)**. 
 
