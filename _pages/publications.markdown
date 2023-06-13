@@ -8,6 +8,14 @@ classes: wide
 ---
 
 ## 2023
+_Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
+for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _Forum on Specification
+& Design Languages (FDL)_, 2023 **(accepted for publication)**.
+
+_Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
+In _Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik (II-WS2023)_, 2023
+**(accepted for publication)**.
+
 _Lorenz Hüther, Karsten Sohr, Bernhard J. Berger, Hendrik Rothe and Stefan Edelkamp_. **Machine Learning for SAST: A
 Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023
 **(accepted for publication)**.
