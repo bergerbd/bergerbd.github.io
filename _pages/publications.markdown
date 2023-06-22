@@ -33,7 +33,7 @@ Measurement for Explanations in System Design**. _Workshop on Intelligent Method
 Test and Reliability_, 2023 **(workshop contribution)**.
 
 
-_Christina Plump and Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver
+_Christina Plump, Rolf Drechsler and Bernhard J. Berger_. **KI-gestützte Optimierung repetitiver
 Prozesse - Eine Kodierungstechnik für repetitive Prozesse in der evolutionären 
 Optimierung**. Industrie 4.0 Management, 2023. [DOI](https://doi.org/10.30844/IM_23-1_19-22){: .chip .doi}
 
