@@ -6,7 +6,7 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
-![Publications and Research Topics](/assets/images/subway.png){: .full}
+[![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2023
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
