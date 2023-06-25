@@ -5,6 +5,8 @@ date: 2021-08-12T10:31:00+02:00
 author: Bernhard Berger
 author_profile: true
 classes: wide
+header:
+    teaser: images/subway.png
 ---
 
 ## 2023
