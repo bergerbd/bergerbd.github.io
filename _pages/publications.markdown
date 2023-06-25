@@ -6,7 +6,7 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 header:
-    teaser: images/subway.png
+    image: subway.png
 ---
 
 ## 2023
