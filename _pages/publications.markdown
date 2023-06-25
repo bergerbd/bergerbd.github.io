@@ -8,6 +8,7 @@ classes: wide
 header:
     image: /assets/images/subway.png
 ---
+![My helpful screenshot](/assets/images/subway.png)
 
 ## 2023
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
