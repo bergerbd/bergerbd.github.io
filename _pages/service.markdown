@@ -7,6 +7,14 @@ author_profile: true
 classes: wide
 ---
 ## 2023
+
+_Session Chair_ at the **[IEEE 2023 Congress on Evolutionary Computation (CEC)]
+(https://2023.ieee-cec.org)**, 2023.
+
+_Program Committee member_ for the **[International Workshop on Designing and Measuring CyberSecurity in Software Architectures (DeMeSSA)](https://sites.google.com/view/demessa2023/home)**, 2023.
+
+_Sub-reviewer_ for the **[IEEE/ACM 2023 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com)**, 2023.
+
 _Program Committee member_ for the **[18th International Conference on Availability, Reliability and Security (ARES 2023)](https://www.ares-conference.eu)**, 2023.
 
 _Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2023)**, 2023.
