@@ -9,6 +9,10 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2023
+_Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison+*.
+In _Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems_, 2023
+**(accepted for publication)**.
+
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
 for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _Forum on Specification
 & Design Languages (FDL)_, 2023 **(accepted for publication)**.
