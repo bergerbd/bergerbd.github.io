@@ -25,9 +25,9 @@ _Lorenz Hüther, Karsten Sohr, Bernhard J. Berger, Hendrik Rothe and Stefan Edel
 Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023
 **(accepted for publication)**.
  
-_Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **GLRP: Guided by Layer-wise Relevance Propagation – Selecting Crucial Neurons in Artificial Neural Networks**. In _International Conference on Modern Circuits and Systems Technologies (MOCAST) on Electronics and Communications_, 2023 **(accepted for publication)**.
+_Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **GLRP: Guided by Layer-wise Relevance Propagation – Selecting Crucial Neurons in Artificial Neural Networks**. In _International Conference on Modern Circuits and Systems Technologies (MOCAST) on Electronics and Communications_, 2023. [DOI](https://doi.org/10.1109/MOCAST57943.2023.10176688){: .chip .doi}
 
-_Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Repetitive Processes and Their Surrogate-Model Congruent Encoding for Evolutionary Algorithms - A Theoretic Proposal**. _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2023 **(accepted for publication)**.
+_Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Repetitive Processes and Their Surrogate-Model Congruent Encoding for Evolutionary Algorithms - A Theoretic Proposal**. _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2023. [DOI](https://doi.org/10.1145/3583133.3596389){: .chip .doi}
 
 _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl: A domain-specific
 language-based approach to optimisation**. In _2023 IEEE Congress on Evolutionary

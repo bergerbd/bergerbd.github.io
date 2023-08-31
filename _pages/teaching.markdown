@@ -7,6 +7,13 @@ author_profile: true
 classes: wide
 layout: home
 ---
+## Winter Term 2023
+_Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger
+and Prof. Dr. Görschwin Fey**. Hamburg University of Technology. 
+
+_Bridge Course Computer Science_. **Dr. rer. nat. Bernhard  J. Berger
+and Prof. Dr. Görschwin Fey**. Hamburg University of Technology. 
+
 ## Summer Term 2023
 _Automated Threat Modeling_. **Dr. rer. nat. Bernhard J. Berger**. At
 the _2nd Summer School on Security Testing and Verification_, Brussels.
@@ -14,7 +21,6 @@ the _2nd Summer School on Security Testing and Verification_, Brussels.
 _Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
 of Technology. 
-
 
 ## Winter Term 2022
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger
