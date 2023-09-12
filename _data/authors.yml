@@ -7,6 +7,9 @@ Bernhard Berger:
     xing:     "BernhardJohannes_Berger"
     github:   "bergerbd"
     links:
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "mailto:bernhard.berger@tuhh.de"
       - label: "0000-0001-6093-9229"
         icon: "fab da-fw fa-orcid"
         url: "https://orcid.org/0000-0001-6093-9229"
