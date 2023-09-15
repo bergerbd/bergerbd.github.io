@@ -8,6 +8,9 @@ classes: wide
 layout: home
 ---
 ## Winter Term 2023
+_Machine Learning in Optimisation with Applications to Material Science_.
+**Dr. rer. nat. Bernhard J. Berger**. Hamburg University of Technology.
+
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger
 and Prof. Dr. Görschwin Fey**. Hamburg University of Technology. 
 

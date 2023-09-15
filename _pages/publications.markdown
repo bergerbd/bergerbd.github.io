@@ -15,7 +15,7 @@ In _Proceedings of the 26th International Conference on Model Driven Engineering
 
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
 for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _Forum on Specification
-& Design Languages (FDL)_, 2023 **(accepted for publication)**.
+& Design Languages (FDL)_, 2023. [Best Paper Award](){: .chip .award}
 
 _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik (II-WS2023)_, 2023
@@ -107,8 +107,7 @@ Analysis and Manipulation (SCAM)_, IEEE Computer Society Press, 2020. [DOI](http
 ## 2019
 _Bernhard J. Berger, Karsten Sohr, Rainer Koschke_. **The Architectural Security
 Tool Suite - ArchSec**. In _Proceedings of the 19th IEEE International Working
-Conference on Source Code Analysis and Manipulation (SCAM)_, Cleveland, Ohio, 2019. [DOI](https://doi.org/10.1109/SCAM.2019.00035){: .chip .doi}
-**Best Engineering Paper Award**.
+Conference on Source Code Analysis and Manipulation (SCAM)_, Cleveland, Ohio, 2019. [DOI](https://doi.org/10.1109/SCAM.2019.00035){: .chip .doi}[Best Engineering Paper Award](){: .chip .award}
 
 _Bernhard J. Berger, Christian Maeder, Rodrigue W. Nguempnang, Karsten Sohr, Carlos
 E. Rubio-Medrano_. **Towards Effective Verification of Multi-Model Access Control
