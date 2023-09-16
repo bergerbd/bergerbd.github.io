@@ -15,7 +15,7 @@ In _Proceedings of the 26th International Conference on Model Driven Engineering
 
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
 for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _Forum on Specification
-& Design Languages (FDL)_, 2023. [Online](https://agra.informatik.uni-bremen.de/doc/konf/FDL2023_CM.pdf){.chip .online}[Best Paper Award](){: .chip .award}
+& Design Languages (FDL)_, 2023. [Online](https://agra.informatik.uni-bremen.de/doc/konf/FDL2023_CM.pdf){: .chip .online} [Best Paper Award](){: .chip .award}
 
 _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik (II-WS2023)_, 2023
@@ -59,7 +59,7 @@ ML-SAST**. Editor: _Federal Office for Information Security_, 2022. [Online](htt
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
 training data to improve evolutionary algorithms with approximative fitness
-functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022. [DOI](https://doi.org/10.1109/CEC55065.2022.9870352){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/cec2022_cp.pdf){.chip .online}
+functions**. In _2022 IEEE Congress on Evolutionary Computation (CEC)_, 2022. [DOI](https://doi.org/10.1109/CEC55065.2022.9870352){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/cec2022_cp.pdf){: .chip .online}
 
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Adapting mutation
 and recombination operators to range-aware relations in real-world application data**.
@@ -71,7 +71,7 @@ Doctoral Thesis, 2022. [DOI](https://doi.org/10.26092/elib/1453){: .chip .doi}
 _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
 search-space restrictions in evolutionary algorithms**. In _Proceedings of the
-8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022. [DOI](https://link.springer.com/chapter/10.1007/978-3-031-05359-7_28){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/LDIC2022Plump.pdf){.chip .online}
+8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022. [DOI](https://link.springer.com/chapter/10.1007/978-3-031-05359-7_28){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/LDIC2022Plump.pdf){: .chip .online}
 
 
 ## 2021
@@ -92,11 +92,11 @@ IEEE International Working Conference on Source Code Analysis and Manipulation
 
 _Christina Plump, Bernhard J. Berger, Rolf Drechsler_. **Improving Evolutionary
 Algorithms by Enhancing an Approximative Fitness Function Through Prediction
-Intervals.** In _2021 IEEE Congress on Evolutionary Computation (CEC)_, 2021. [DOI](https://doi.org/10.1109/CEC45853.2021.9504722){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/CEC_approximative.pdf){.chip .online}
+Intervals.** In _2021 IEEE Congress on Evolutionary Computation (CEC)_, 2021. [DOI](https://doi.org/10.1109/CEC45853.2021.9504722){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/CEC_approximative.pdf){: .chip .online}
 
 _Christina Plump, Bernhard J. Berger, Rolf Drechsler_. **Domain-driven
 Correlation-aware Recombination and Mutation Operators for Complex Real-world
-Applications.** In _2021 IEEE Congress on Evolutionary Computation (CEC)_, 2021. [DOI](https://doi.org/10.1109/CEC45853.2021.9504931){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/CEC_CorrelatedOperators.pdf){.chip .online}
+Applications.** In _2021 IEEE Congress on Evolutionary Computation (CEC)_, 2021. [DOI](https://doi.org/10.1109/CEC45853.2021.9504931){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/CEC_CorrelatedOperators.pdf){: .chip .online}
 
 ## 2020
 _Bernhard J. Berger, Rodrigue W. Nguempnang, Karsten Sohr and Rainer Koschke_.
