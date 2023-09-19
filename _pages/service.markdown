@@ -28,7 +28,7 @@ _Member of_ the **Working Group Cumulative Doctorate** at the Hamburg University
 
 Reviewer for the Journal **[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)**, IEEE.
 
-_Program Committee member_ for the **[31st ACM/IEEE International Conference on Program Comprehension (ICPC 2023)](https://conf.researchr.org/home/icpc-2023)**, 2023, **Distinguished Reviewer Award**. 
+_Program Committee member_ for the **[31st ACM/IEEE International Conference on Program Comprehension (ICPC 2023)](https://conf.researchr.org/home/icpc-2023)**, 2023. [Distinguished Reviewer Award](){: .chip .award} 
 
 ## 2022
 _Sub-reviewer_ for the **[IEEE/ACM 2022 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com)**, 2022.
