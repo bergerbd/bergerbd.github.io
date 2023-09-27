@@ -31,7 +31,7 @@ _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Repetitive Processes
 
 _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl: A domain-specific
 language-based approach to optimisation**. In _2023 IEEE Congress on Evolutionary
-Computation (CEC)_, 2023 **(accepted for publication)**. 
+Computation (CEC)_, 2023. [DOI](https://doi.org/10.1109/CEC53210.2023.10253985){: .chip .doi}
 
 _Goerschwin Fey, Swantje Plambeck and Bernhard J. Berger_. **QMESy: Towards Quality
 Measurement for Explanations in System Design**. _Workshop on Intelligent Methods for
