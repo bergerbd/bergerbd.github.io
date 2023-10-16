@@ -14,8 +14,9 @@ In _Proceedings of the 26th International Conference on Model Driven Engineering
 **(accepted for publication)**.
 
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
-for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _Forum on Specification
-& Design Languages (FDL)_, 2023. [Online](https://agra.informatik.uni-bremen.de/doc/konf/FDL2023_CM.pdf){: .chip .online} [Best Paper Award](){: .chip .award}
+for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _2023 Forum on Specification
+& Design Languages (FDL)_, Turin, Italy, 2023. [DOI](https://doi.org/10.1109/FDL59689.2023.10272088){: .chip .doi}
+[Online](https://agra.informatik.uni-bremen.de/doc/konf/FDL2023_CM.pdf){: .chip .online} [Best Paper Award](){: .chip .award}
 
 _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik (II-WS2023)_, 2023
