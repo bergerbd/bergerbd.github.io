@@ -11,7 +11,7 @@ classes: wide
 ## 2023
 _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
 In _Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems_, 2023
-**(accepted for publication)** [Material DOI](https://doi.org/10.5281/zenodo.8186122).
+**(accepted for publication)** [Material DOI](https://doi.org/10.5281/zenodo.8186122){: .chip .material}.
 
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
 for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _2023 Forum on Specification
