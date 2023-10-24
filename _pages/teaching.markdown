@@ -8,6 +8,9 @@ classes: wide
 layout: home
 ---
 ## Winter Term 2023
+_Meaningful Data -- From Information to Knowledge_. **Dr. rer. nat Bernhard
+J. Berger and Christina Plump**. U Bremen Research Alliance.
+
 _Machine Learning in Optimisation with Applications to Material Science_.
 **Dr. rer. nat. Bernhard J. Berger**. Hamburg University of Technology.
 
