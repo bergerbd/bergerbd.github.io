@@ -6,6 +6,11 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+## 2024
+_Program Committee member_ for the **[19th International Conference on Availability, Reliability and Security (ARES 2024)](https://www.ares-conference.eu)**, 2024.
+
+_Program Committee member_ for the **[32st ACM/IEEE International Conference on Program Comprehension (ICPC 2024)](https://conf.researchr.org/home/icpc-2024)**, 2024.
+
 ## 2023
 
 _Deputy_ of the **Election Verification Committee** of the Hamburg University of Technology, 2023.
