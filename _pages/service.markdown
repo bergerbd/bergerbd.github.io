@@ -7,9 +7,11 @@ author_profile: true
 classes: wide
 ---
 ## 2024
-_Program Committee member_ for the **[19th International Conference on Availability, Reliability and Security (ARES 2024)](https://www.ares-conference.eu)**, 2024.
+_Program Committee member_ of the **[European Workshop on Maritime Systems Resilience and Security (MARESEC)](https://dlr.expert/maresec2024)**, 2024. 
 
-_Program Committee member_ for the **[32st ACM/IEEE International Conference on Program Comprehension (ICPC 2024)](https://conf.researchr.org/home/icpc-2024)**, 2024.
+_Program Committee member_ of the **[19th International Conference on Availability, Reliability and Security (ARES 2024)](https://www.ares-conference.eu)**, 2024.
+
+_Program Committee member_ of the **[32st ACM/IEEE International Conference on Program Comprehension (ICPC 2024)](https://conf.researchr.org/home/icpc-2024)**, 2024.
 
 ## 2023
 
@@ -19,7 +21,7 @@ _Session Chair_ at the **[IEEE 2023 Congress on Evolutionary Computation (CEC)](
 
 _Program Committee member_ for the **[International Workshop on Designing and Measuring CyberSecurity in Software Architectures (DeMeSSA)](https://sites.google.com/view/demessa2023/home)**, 2023.
 
-_Sub-reviewer_ for the **[IEEE/ACM 2023 International Conference on Computer-Aidded Design (ICCAD)](https://iccad.com)**, 2023.
+_Sub-reviewer_ for the **[IEEE/ACM 2023 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com)**, 2023.
 
 _Program Committee member_ for the **[18th International Conference on Availability, Reliability and Security (ARES 2023)](https://www.ares-conference.eu)**, 2023.
 

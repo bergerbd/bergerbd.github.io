@@ -7,18 +7,20 @@ author_profile: true
 classes: wide
 layout: home
 ---
-## 2023
-_Steffen Janßen_. **Güte- und effeizienzbasierte Performanz unterschiedlicher
-bio-inspirierter Verfahren auf klassische Optimierungsprobleme**. _Bachelor Thesis_,
-University of Bremen, 2023 **(in progress)**.
+
+## 2024
+_Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
+_Bachelor Thesis_, Hamburg University of Technology, 2023 **(in progress)**.
 
 _Muhammed Yildiz_. **Wie verhalten sich verschiedene Optimierungsverfahren auf
 Benchmarkfunktionen am Beispiel von Hill Climbing, Simulated Annealing und
-evolutionäre Algorithmen**. _Bachelor Thesis_, University of Bremen, 2023
+evolutionäre Algorithmen**. _Bachelor Thesis_, University of Bremen, 2024
 **(in progress)**.
 
-_Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
-_Bachelor Thesis_, Hamburg University of Technology, 2023 **(in progress)**.
+## 2023
+_Steffen Janßen_. **Güte- und effeizienzbasierte Performanz unterschiedlicher
+bio-inspirierter Verfahren auf klassische Optimierungsprobleme**. _Bachelor Thesis_,
+University of Bremen, 2023.
 
 _Cem Üstün_. **Konzeption und Realisierung einer Wissensdatenbank für
 Hardware-Sicherheit**. _Bachelor Thesis_, Hamburg University of Technology,

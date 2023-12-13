@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-permalink : /pages/tools/
+permalink: /pages/tools/
 layout: home
 author: Bernhard Berger
 author_profile: true
