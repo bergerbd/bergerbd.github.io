@@ -11,7 +11,7 @@ classes: wide
 ## 2023
 _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
 In _Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems_, 2023
-**(accepted for publication)** [Material DOI](https://doi.org/10.5281/zenodo.8186122){: .chip .material}
+ [Material DOI](https://doi.org/10.5281/zenodo.8186122){: .chip .material}
 [DOI](https://doi.org/10.1109/MODELS58315.2023.00027){: .chip .doi}.
 
 _Christopher A. Metz, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Hybrid PTX Analysis
@@ -22,7 +22,7 @@ for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _2
 _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _INFORMATIK 2023 - Designing Futures: Zukünfte gestalten_, Bonn: Gesellschaft für Informatik e.V., 
 ISBN: 978-3-88579-731-9, Bildung - Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik, Berlin,
-2023, [DOI](https://doi.org/10.18420/inf2023_19){: .chip .doi}. [Online](https://dl.gi.de/server/api/core/bitstreams/f1fafe74-a72e-4eab-b1bd-3cdc3751dcee/content){: .chip .online}.
+2023. [DOI](https://doi.org/10.18420/inf2023_19){: .chip .doi} [Online](https://dl.gi.de/server/api/core/bitstreams/f1fafe74-a72e-4eab-b1bd-3cdc3751dcee/content){: .chip .online}
 
 _Lorenz Hüther, Karsten Sohr, Bernhard J. Berger, Hendrik Rothe and Stefan Edelkamp_. **Machine Learning for SAST: A
 Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023
