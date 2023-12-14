@@ -21,8 +21,7 @@ for GPU accelerated CNN inferencing aiding Computer Architecture Design**. In _2
 
 _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _INFORMATIK 2023 - Designing Futures: Zukünfte gestalten_, Bonn: Gesellschaft für Informatik e.V., 
-ISBN: 978-3-88579-731-9, Bildung - Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik, Berlin,
- 2023. [DOI](https://doi.org/10.18420/inf2023_19){: .chip .doi} [Online](https://dl.gi.de/server/api/core/bitstreams/f1fafe74-a72e-4eab-b1bd-3cdc3751dcee/content){: .chip .online}
+ISBN: 978-3-88579-731-9, Bildung - Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik, Berlin, 2023. [DOI](https://doi.org/10.18420/inf2023_19){: .chip .doi} [Online](https://dl.gi.de/server/api/core/bitstreams/f1fafe74-a72e-4eab-b1bd-3cdc3751dcee/content){: .chip .online}
 
 _Lorenz Hüther, Karsten Sohr, Bernhard J. Berger, Hendrik Rothe and Stefan Edelkamp_. **Machine Learning for SAST: A
 Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023
