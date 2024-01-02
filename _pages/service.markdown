@@ -7,6 +7,8 @@ author_profile: true
 classes: wide
 ---
 ## 2024
+_Reviewer_ for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/) **, 2024.
+
 _Program Committee member_ of the **[European Workshop on Maritime Systems Resilience and Security (MARESEC)](https://dlr.expert/maresec2024)**, 2024. 
 
 _Program Committee member_ of the **[19th International Conference on Availability, Reliability and Security (ARES 2024)](https://www.ares-conference.eu)**, 2024.
