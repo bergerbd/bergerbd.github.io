@@ -6,7 +6,12 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+
 ## 2024
+_Program Committee member_ of the **[6th Workshop on Parallel AI and Systems for the Edge" (PAISE)](https://paise.org/)**, 2024. 
+
+_Reviewer_ for the Journal **[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)**, ScienceDirect, 2024.
+
 _Reviewer_ for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
 
 _Program Committee member_ of the **[European Workshop on Maritime Systems Resilience and Security (MARESEC)](https://dlr.expert/maresec2024)**, 2024. 
