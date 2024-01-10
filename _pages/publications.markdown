@@ -158,7 +158,7 @@ Research - IFIP Advances in Information and Communication Technology_, Volume
 376/2012, Springer, 2012. [DOI](https://doi.org/10.1007/978-3-642-30436-1_3){: .chip .doi}
 
 ## 2011
-[5] _Bernhard J. Berger, Michaela Bunke and Karsten Sohr_. **An Android Security Case
+[5]{: #bibliography5 } _Bernhard J. Berger, Michaela Bunke and Karsten Sohr_. **An Android Security Case
 Study with Bauhaus**. In _Proceedings of the 18th Working Conference on Reverse
 Engineering_. IEEE Computer Society, 2011. [DOI](https://doi.org/10.1109/WCRE.2011.29){: .chip .doi}
 
