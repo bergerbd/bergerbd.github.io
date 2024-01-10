@@ -23,6 +23,5 @@ feature_row_asks:
 
 ---
 
-# Research Projects
 
 {% include feature_row id="feature_row_asks" type="left" %}
