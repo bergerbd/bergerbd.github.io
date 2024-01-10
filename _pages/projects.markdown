@@ -15,6 +15,7 @@ feature_row_asks:
   were extracted using static code analysis and examined for security problems. This
   project was the start of *ArchSec* (see tools section). As part of the ASKS project,
   I was responsible for working on the project work packages."
+  image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
 
 ---
