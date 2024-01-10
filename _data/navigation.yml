@@ -9,6 +9,8 @@ main:
     url	   	: /pages/theses
   - title	: "Academic Service"
     url	   	: /pages/service
+  - title	: "Projects"
+    url	   	: /pages/projects
   - title	: "Teaching/Talks"
     url	   	: /pages/teaching
 #  - title: "Posts"
