@@ -24,8 +24,7 @@ In _INFORMATIK 2023 - Designing Futures: Zukünfte gestalten_, Bonn: Gesellschaf
 ISBN: 978-3-88579-731-9, Bildung - Interdisziplinäres Forschen und Lernen in der Ingenieurinformatik, Berlin, 2023. [DOI](https://doi.org/10.18420/inf2023_19){: .chip .doi} [Online](https://dl.gi.de/server/api/core/bitstreams/f1fafe74-a72e-4eab-b1bd-3cdc3751dcee/content){: .chip .online}
 
 _Lorenz Hüther, Karsten Sohr, Bernhard J. Berger, Hendrik Rothe and Stefan Edelkamp_. **Machine Learning for SAST: A
-Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023
-**(accepted for publication)**.
+Lightweight and Adaptable Approach**. In _28th European Symposium on Research in Computer Security (ESORICS)_, 2023. [DOI](https://doi.org/10.1007/978-3-031-51482-1_5){: .chip .doi}
  
 _Fin Hendrik Bahnsen, Bernhard J. Berger and Goerschwin Fey_. **GLRP: Guided by Layer-wise Relevance Propagation – Selecting Crucial Neurons in Artificial Neural Networks**. In _International Conference on Modern Circuits and Systems Technologies (MOCAST) on Electronics and Communications_, 2023. [DOI](https://doi.org/10.1109/MOCAST57943.2023.10176688){: .chip .doi}
 
