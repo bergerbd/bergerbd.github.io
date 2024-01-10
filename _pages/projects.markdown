@@ -15,7 +15,7 @@ feature_row_asks:
   on the software architecture. For the project, architectural views of the software
   were extracted using static code analysis and examined for security problems. This
   project was the start of *ArchSec* (see tools section). As part of the ASKS project,
-  I was responsible for working on the project work packages.
+  I was responsible for working on the project work packages.<br/><br/>
   
   *Publications:* [[5](./publications.markdown#bibliography5), 6, 7, 15]"
   image_path: "/assets/images/logo-bmbf.svg"
