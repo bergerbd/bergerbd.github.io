@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 permalink: /pages/projects
+layout: home
 date: 2024-01-10T10:31:00+02:00
 author: Bernhard Berger
 author_profile: true
