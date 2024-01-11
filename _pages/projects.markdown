@@ -17,11 +17,25 @@ feature_row_asks:
   project was the start of *ArchSec* (see tools section). As part of the ASKS project,
   I was responsible for working on the project work packages.<br/><br/>
   
+  *Project duration:* 2010 - 2012 <br />
   *Publications:* [[5](./publications#2011), [6](./publications#2012), [7](./publications#2013), [15](./publications#2019)]"
+  image_path: "/assets/images/logo-bmbf.svg"
+  alt: "BMBF logo."
+
+feature_row_zertapps:
+- title: "ZertApps"
+  excerpt: "In the ZertApps project, a lightweight certification concept for
+  Android apps was designed. A central component of the certification process
+  was static software analysis, which automated and accelerated it. I was
+  involved in writing and working on the project.<br/><br/>
+  
+  *Project duration:* 2014 - 2015 <br />
+  *Publications:* [[9](./publications#2014), [10](./publications#2014), [11](./publications#2015), [15](./publications#2019)]"
   image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
 
 ---
 
+{% include feature_row id="feature_row_zertapps" type="right" %}
 
 {% include feature_row id="feature_row_asks" type="left" %}
