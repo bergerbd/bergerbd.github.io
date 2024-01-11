@@ -18,7 +18,7 @@ feature_row_asks:
   I was responsible for working on the project work packages.<br/><br/>
   
   *Project duration:* 2010 - 2012 <br />
-  *Publications:* [[5](./publications#2011), [6](./publications#2012), [7](./publications#2013), [15](./publications#2019)]"
+  *Publications:* [5](./publications#2011), [6](./publications#2012), [7](./publications#2013), [15](./publications#2019)"
   image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
 
@@ -30,7 +30,7 @@ feature_row_zertapps:
   involved in writing and working on the project.<br/><br/>
   
   *Project duration:* 2014 - 2015 <br />
-  *Publications:* [[9](./publications#2014), [10](./publications#2014), [11](./publications#2015), [15](./publications#2019)]"
+  *Publications:* [9](./publications#2014), [10](./publications#2014), [11](./publications#2015), [15](./publications#2019)"
   image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
 
@@ -38,12 +38,26 @@ feature_row_secpatterns:
 - title: "SecPatterns"
   excerpt: "The SecPatterns project investigated the awareness and distribution
   of security patterns. In addition, existing security patterns were formalized
-  so that they could be extracted using static software analysis.
+  so that they could be extracted using static software analysis. The publication
+  was created in collaboration with SecPatterns project.
 
   *Project duration:* 2016 - 2018 <br />
-  *Publications:* [[16](./publications#2020)"
+  *Publications:* [16](./publications#2020)"
   image_path: "/assets/images/logo-dfg.jpg"
   alt: "DFG logo."
+
+feature_row_portsec:
+- title: "PortSec"
+  excerpt: "The PortSec project dealt with IT risk management in port telematics
+  based on software architecture. The planned and implemented security architecture
+  was extracted using static software analyses and converted into UML/OCL models.
+  These were then examined for security problems.
+
+  *Project duration:* 2016 - 2018 <br />
+  *Publications:* [14](./publications#2019), [15](./publications#2019)"
+  image_path: "/assets/images/logo-dfg.jpg"
+  alt: "DFG logo."
+
 ---
 
 {% include feature_row id="feature_row_secpatterns" type="left" %}
