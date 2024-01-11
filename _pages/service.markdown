@@ -8,7 +8,7 @@ classes: wide
 ---
 
 ## 2024
-_Program Committee member_ of the **[6th Workshop on Parallel AI and Systems for the Edge" (PAISE)](https://paise.org/)**, 2024. 
+_Program Committee member_ of the **[6th Workshop on Parallel AI and Systems for the Edge (PAISE)](https://paise.org/)**, 2024. 
 
 _Reviewer_ for the Journal **[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)**, ScienceDirect, 2024.
 
