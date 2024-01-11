@@ -39,7 +39,7 @@ feature_row_secpatterns:
   excerpt: "The SecPatterns project investigated the awareness and distribution
   of security patterns. In addition, existing security patterns were formalized
   so that they could be extracted using static software analysis. The publication
-  was created in collaboration with SecPatterns project.
+  was created in collaboration with the SecPatterns project.<br/><br/>
 
   *Project duration:* 2016 - 2018 <br />
   *Publications:* [16](./publications#2020)"
@@ -51,14 +51,46 @@ feature_row_portsec:
   excerpt: "The PortSec project dealt with IT risk management in port telematics
   based on software architecture. The planned and implemented security architecture
   was extracted using static software analyses and converted into UML/OCL models.
-  These were then examined for security problems.
+  These were then examined for security problems. I was involved in the proposal
+  process and supervising the project's progress.<br/><br/>
 
   *Project duration:* 2016 - 2018 <br />
-  *Publications:* [14](./publications#2019), [15](./publications#2019)"
-  image_path: "/assets/images/logo-dfg.jpg"
-  alt: "DFG logo."
+  *Publications:* [12](./publications#2016), [14](./publications#2019), [15](./publications#2019), [16](./publications#2020)"
+  image_path: "/assets/images/logo-bmwi.svg"
+  alt: "BMWi logo."
+
+feature_row_secproports:
+- title: "SecProPorts"
+  excerpt: "The SecProPorts project deals with the conception and prototype
+  implementation of a secure reference architecture for port telematics systems.
+  Modeling approaches with UML/OCL, but also blockchain technologies, are used here.
+  I took part in the proposal writing, as well as, in the supervision of the project.<br/><br/>
+
+  *Project duration:* 2018 - 2021 <br />
+  *Publications:* [14](./publications#2019), [19](./publications#2021), [20](./publications#2021)"
+  image_path: "/assets/images/logo-bmvi.svg"
+  alt: "BMVI logo."
+
+feature_row_mlsast:
+- title: "ML-SAST"
+  excerpt: "In the first project phase, the ML-SAST project advertised by the BSI deals
+  with the question of which machine learning-based approaches exist to detect security
+  errors in C/C++ software. As part of the second project phase, an ML-based detection
+  method based on these approaches was implemented. I was involved in this project as
+  an external supervisor.<br/><br/>
+
+  *Project duration:* 2011 - 2022 <br />
+  *Publications:* [26](./publications#2022), [34](./publications#2023)"
+  image_path: "/assets/images/logo-bsi.svg"
+  alt: "BSI logo."
 
 ---
+
+{% include feature_row id="feature_row_mlsast" type="right" %}
+
+{% include feature_row id="feature_row_secproports" type="left" %}
+
+{% include feature_row id="feature_row_portsec" type="right" %}
 
 {% include feature_row id="feature_row_secpatterns" type="left" %}
 
