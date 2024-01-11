@@ -34,7 +34,19 @@ feature_row_zertapps:
   image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
 
+feature_row_secpatterns:
+- title: "SecPatterns"
+  excerpt: "The SecPatterns project investigated the awareness and distribution
+  of security patterns. In addition, existing security patterns were formalized
+  so that they could be extracted using static software analysis.
+
+  *Project duration:* 2016 - 2018 <br />
+  *Publications:* [[16](./publications#2020)"
+  image_path: "/assets/images/logo-dfg.jpg"
+  alt: "DFG logo."
 ---
+
+{% include feature_row id="feature_row_secpatterns" type="left" %}
 
 {% include feature_row id="feature_row_zertapps" type="right" %}
 
