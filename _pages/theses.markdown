@@ -10,7 +10,7 @@ layout: home
 
 ## 2024
 _Malte Burmester_. **Graph Databases for Hardware-Design IR**. _Bachelor
-Thesis_, Hamburg University of Technology, 2024.
+Thesis_, Hamburg University of Technology, 2024 **in progress**.
 
 _Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
 _Bachelor Thesis_, Hamburg University of Technology, 2024.

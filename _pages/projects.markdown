@@ -79,11 +79,25 @@ feature_row_mlsast:
   method based on these approaches was implemented. I was involved in this project as
   an external supervisor.<br/><br/>
 
-  *Project duration:* 2011 - 2022 <br />
+  *Project duration:* 2021 - 2022 <br />
   *Publications:* [26](./publications#2022), [34](./publications#2023)"
   image_path: "/assets/images/logo-bsi.svg"
   alt: "BSI logo."
 
+
+feature_row_exvipas:
+- title: "ExViPaS"
+  excerpt: "In ExViPaS, we will research the possibilities of applying architectural risk
+    analysis to hardware designs. Therefore, we will document hardware-related security
+    patterns (and anti-patterns), strengthening the knowledge of hardware security. We will
+    open-source the project results and the developed tooling, allowing hardware engineers
+    to use the research results.<br/><br/>
+
+  *Project duration:* 2024 - 2027 <br />
+  *Publications:*  "
+  image_path: "/assets/images/logo-bmbf.svg"
+  alt: "BMBF logo."
+  
 ---
 
 {% include feature_row id="feature_row_mlsast" type="right" %}
