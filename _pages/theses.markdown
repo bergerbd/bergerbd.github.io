@@ -9,8 +9,11 @@ layout: home
 ---
 
 ## 2024
+_Malte Burmester_. **Graph Databases for Hardware-Design IR**. _Bachelor
+Thesis_, Hamburg University of Technology, 2024.
+
 _Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
-_Bachelor Thesis_, Hamburg University of Technology, 2023 **(in progress)**.
+_Bachelor Thesis_, Hamburg University of Technology, 2024.
 
 _Muhammed Yildiz_. **Wie verhalten sich verschiedene Optimierungsverfahren auf
 Benchmarkfunktionen am Beispiel von Hill Climbing, Simulated Annealing und

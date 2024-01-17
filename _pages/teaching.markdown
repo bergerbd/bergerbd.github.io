@@ -7,8 +7,16 @@ author_profile: true
 classes: wide
 layout: home
 ---
+
+## Summer Term 2024
+_Software Engineering für KI-basierte Systeme_.  **Dr. rer. nat. Bernhard
+J. Berger**. Universität Rostock.
+
+_Model-basierte Entwicklung von Domänenspezifischen Sprachen_. **Dr. rer. nat.
+Bernhard J. Berger**. Universität Rostock.
+
 ## Winter Term 2023
-_Meaningful Data -- From Information to Knowledge_. **Dr. rer. nat Bernhard
+_Meaningful Data -- From Information to Knowledge_. **Dr. rer. nat. Bernhard
 J. Berger and Christina Plump**. U Bremen Research Alliance.
 
 _Machine Learning in Optimisation with Applications to Material Science_.

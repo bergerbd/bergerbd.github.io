@@ -1,13 +1,16 @@
 ---
 title: "About me"
-permalink : /
+permalink: /
 layout: home
 author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+Starting in April 2024, I will be working as an interim professor at the
+University of Rostock. There I will hold the interim professorship in the
+[software engineering department](https://se.informatik.uni-rostock.de/home/).
 
-I am a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
+Currently, I am a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
 the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
 to the [Hamburg University of Technology](https://www.tuhh.de). Before working here, I was
 a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
@@ -83,7 +86,6 @@ In my time at Axivion, I worked on different parts of their tool suite, starting
 the analyser frontends, scripting binding, and their web interface. I also took part in
 workshops with customers regularly and gained insight into their software development 
 processes. After two years, I decided to return to academia and focus on research.
-
 
 ## Studies
 I graduated in December 2007 from the University of Bremen, and my diploma thesis,  which
