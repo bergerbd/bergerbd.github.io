@@ -7,10 +7,9 @@ author_profile: true
 classes: wide
 ---
 Starting in April 2024, I will be working as an interim professor at the
-University of Rostock. There I will hold the interim professorship in the
+[University of Rostock](https://www.uni-rostock.de/en/). There I will hold the interim professorship in the
 [software engineering department](https://se.informatik.uni-rostock.de/home/).
-
-Currently, I am a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
+Until then, I am a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
 the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
 to the [Hamburg University of Technology](https://www.tuhh.de). Before working here, I was
 a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
