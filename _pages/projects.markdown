@@ -99,7 +99,11 @@ feature_row_exvipas:
   alt: "BMBF logo."
   
 ---
+# Future and Running
+{% include feature_row id="feature_row_exvipas" type="right" %}
 
+
+# Finished
 {% include feature_row id="feature_row_mlsast" type="right" %}
 
 {% include feature_row id="feature_row_secproports" type="left" %}
