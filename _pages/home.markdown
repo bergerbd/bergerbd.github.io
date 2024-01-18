@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 Starting in April 2024, I will be working as an interim professor at the
-[University of Rostock](https://www.uni-rostock.de/en/). There I will hold the interim professorship in the
+[University of Rostock](https://www.uni-rostock.de/en/). There, I will hold the interim professorship in the
 [software engineering department](https://se.informatik.uni-rostock.de/home/).
 Until then, I am a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
 the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
@@ -18,8 +18,10 @@ a research assistant and member of the [software engineering group](https://www.
 My PhD thesis took quite a while because of several additional research topics I
 worked on. Besides writing grant proposals, I already advised colleagues working
 on different research projects related to static analysis and software security. After
-my PhD, I continued working on these topics and started with new topics related to
-the existing topics.
+my PhD, I continued working on these topics in static analysis and software security and
+I am trying to use my knowledge in new domains, such as hardware design. Furthermore, I started
+with new topics, such as optimisation, where I am really interested in using
+software engineering knowledge in the optimisation domain.
 
 ### Architectural Risk Analysis
 I continue my work on architectural risk analysis using _ArchSec_. Currently, we transfer
