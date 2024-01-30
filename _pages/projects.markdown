@@ -100,7 +100,7 @@ feature_row_exvipas:
   
 ---
 # Future and Running
-{% include feature_row id="feature_row_exvipas" type="right" %}
+{% include feature_row id="feature_row_exvipas" type="left" %}
 
 
 # Finished
