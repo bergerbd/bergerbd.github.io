@@ -9,16 +9,28 @@ layout: home
 ---
 
 ## 2024
+
 _Malte Burmester_. **Graph Databases for Hardware-Design IR**. _Bachelor
 Thesis_, Hamburg University of Technology, 2024 **in progress**.
-
-_Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
-_Bachelor Thesis_, Hamburg University of Technology, 2024.
 
 _Muhammed Yildiz_. **Wie verhalten sich verschiedene Optimierungsverfahren auf
 Benchmarkfunktionen am Beispiel von Hill Climbing, Simulated Annealing und
 evolutionäre Algorithmen**. _Bachelor Thesis_, University of Bremen, 2024
 **(in progress)**.
+
+_Majd Wahbi_. **Verbesserung der Effizienz von Testprogrammen an einem
+Flying-Probe-Tester mit Boundary Scan**, Hamburg University of Technology, 2024.
+
+_Vincent van Gunst_. **Entwicklung eines automatisierten Prüflingswechsels
+für Batterie-Management-System-Test**, Hamburg University of Technology, 2024.
+
+_Hanadi Hussein_. **Vorhersage der Optimierungsgüte durch Trainieren eines
+ML-Modells zwischen Landscape-Analyse Eigenschaften und Algorithmuskonfiguration**,
+Hamburg University of Technology, 2024.
+
+_Diana Michaelis_. **Systematic Mapping of Optimisation Algorithms**.
+_Bachelor Thesis_, Hamburg University of Technology, 2024.
+
 
 ## 2023
 _Steffen Janßen_. **Güte- und effeizienzbasierte Performanz unterschiedlicher
