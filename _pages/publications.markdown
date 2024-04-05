@@ -8,6 +8,12 @@ classes: wide
 ---
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
+## 2024
+[38] _Christina Plump, Daniel C. Hoinkiss, Jörn Huber, Bernhard J. Berger, Matthias Günther, Christoph
+Lüth and Rolf Drechsler_. **Finding the perfect MRI sequence for your patient --- Towards an optimisation 
+workflow for MRI-sequences**. In _IEEE World Congress on Computational Intelligence (IEEE WCCI 2024)_,
+Yokohama, Japan, 2024. **accepted for publication**
+
 ## 2023
 [37] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
 In _Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems_, 2023
