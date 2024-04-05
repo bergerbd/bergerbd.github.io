@@ -20,7 +20,7 @@ _Program Committee member_ of the **[European Workshop on Maritime Systems Resil
 
 _Program Committee member_ of the **[19th International Conference on Availability, Reliability and Security (ARES 2024)](https://www.ares-conference.eu)**, 2024.
 
-_Program Committee member_ of the **[32st ACM/IEEE International Conference on Program Comprehension (ICPC 2024)](https://conf.researchr.org/home/icpc-2024)**, 2024.
+_Program Committee member_ of the **[32nd ACM/IEEE International Conference on Program Comprehension (ICPC 2024)](https://conf.researchr.org/home/icpc-2024)**, 2024.
 
 ## 2023
 

@@ -4,8 +4,8 @@ Bernhard Berger:
     bio:      "Computer Scientist, Software Engineer, Software Security, Static Analysis, Optimisation"
     location: "Bremen, Bremen, Germany"
     uri:      "https://bergerbd.de"
-    xing:     "BernhardJohannes_Berger"
     github:   "bergerbd"
+    linkedin: "bernhard-berger-4485a22ba"
     links:
       - label: "Email"
         icon: "fas fa-fw fa-envelope-square"
