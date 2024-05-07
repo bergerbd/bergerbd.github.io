@@ -278,7 +278,17 @@ html {
   background-color: #164C99;
 }
 
-.accepted  {
+.accepted.chip  {
+  color: #000000;
+  background-color: #41f1e5;
+}
+
+.accepted.chip:active  {
+  color: #000000;
+  background-color: #41f1e5;
+}
+
+.accepted.chip:visited  {
   color: #000000;
   background-color: #41f1e5;
 }
