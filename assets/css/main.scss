@@ -253,25 +253,28 @@ html {
 }
 
 
-/* unvisited link */
+/* unvisited link
 .chip:link {
   color: white;
 }
-
-/* visited link */
+*/
+/* visited link 
 .chip:visited {
   color: white;
 }
+*/
 
-/* mouse over link */
+/* mouse over link
 .chip:hover {
   color: white;
 }
+*/
 
-/* selected link */
+/* selected link 
 .chip:active {
   color: white;
 }
+*/
 
 .doi  {
   color: #FFFFFF;
@@ -280,7 +283,7 @@ html {
 
 .accepted.chip  {
   color: #000000;
-  background-color: #41f1e5;
+  background-color: #16e4d7;
 }
 
 .accepted.chip:active  {
