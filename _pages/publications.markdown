@@ -9,6 +9,9 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2024
+[39] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl - Codeless Domain-Optimisation**.
+In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2024. **accepted for publication**
+
 [38] _Christina Plump, Daniel C. Hoinkiss, Jörn Huber, Bernhard J. Berger, Matthias Günther, Christoph
 Lüth and Rolf Drechsler_. **Finding the perfect MRI sequence for your patient --- Towards an optimisation 
 workflow for MRI-sequences**. In _IEEE World Congress on Computational Intelligence (IEEE WCCI 2024)_,

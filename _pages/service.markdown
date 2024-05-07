@@ -8,6 +8,8 @@ classes: wide
 ---
 
 ## 2024
+_Reviewer_ in a selection commitee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
+
 _Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2024)**, 2024.
 
 _Program Committee member_ of the **[6th Workshop on Parallel AI and Systems for the Edge (PAISE)](https://paise.org/)**, 2024. 
