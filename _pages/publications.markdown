@@ -10,12 +10,12 @@ classes: wide
 
 ## 2024
 [39] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl - Codeless Domain-Optimisation**.
-In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2024. **accepted for publication**
+In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2024. [accepted](https://gecco-2024.sigevo.org){: .chip .accepted}
 
 [38] _Christina Plump, Daniel C. Hoinkiss, Jörn Huber, Bernhard J. Berger, Matthias Günther, Christoph
 Lüth and Rolf Drechsler_. **Finding the perfect MRI sequence for your patient --- Towards an optimisation 
 workflow for MRI-sequences**. In _IEEE World Congress on Computational Intelligence (IEEE WCCI 2024)_,
-Yokohama, Japan, 2024. **accepted for publication**
+Yokohama, Japan, 2024. [accepted](https://2024.ieeewcci.org){: .chip .accepted}
 
 ## 2023
 [37] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
