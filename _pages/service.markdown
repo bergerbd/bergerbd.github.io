@@ -6,6 +6,8 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+## 2025
+_Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2025.msrconf.org)**, 2025. 
 
 ## 2024
 _Reviewer_ in a selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
