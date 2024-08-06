@@ -7,6 +7,9 @@ author_profile: true
 classes: wide
 ---
 ## 2025
+
+_Program Committee member_ of the **[33rd ACM/IEEE International Conference on Program Comprehension (ICPC 2025)](https://conf.researchr.org/home/icpc-2025)**, 2025.
+
 _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2025.msrconf.org)**, 2025. 
 
 ## 2024
