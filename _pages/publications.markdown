@@ -9,8 +9,17 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2024
-[39] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl - Codeless Domain-Optimisation**.
-In _The Genetic and Evolutionary Computation Conference (GECCO Companion)_, 2024. [accepted](https://gecco-2024.sigevo.org){: .chip .accepted}
+[41] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **Why Less is Sometimes More &mdash; Using Boolean Literals to Solve 2048**.
+In _16th International Workshop on Boolean Problems_, Bremen, Germany, 2024. **(workshop contribution)**.
+
+[40] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl<sup>2048</sup>**.
+In _GECCO'24 - The Genetic and Evolutionary Computation Conference Companion_,
+Melbourne, Australia, 2024. **(competition contribution)**. [Online](https://raw.githubusercontent.com/bergerbd/2024-gecco-icc-source/main/contribution.pdf){: .chip .online}
+
+[39] _Bernhard J. Berger, Christina Plump, Lauren Paul and Rolf Drechsler_. **EvoAl &mdash; Codeless Domain-Optimisation**.
+In _GECCO '24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion_,
+Melbourne, Australia, 2024. [DOI](https://doi.org/10.1145/3638530.3664154){: .chip .doi}
+[Online](https://agra.informatik.uni-bremen.de/doc/konf/gecco2024_cp.pdf){: .chip .online}
 
 [38] _Christina Plump, Daniel C. Hoinkiss, Jörn Huber, Bernhard J. Berger, Matthias Günther, Christoph
 Lüth and Rolf Drechsler_. **Finding the perfect MRI sequence for your patient --- Towards an optimisation 
