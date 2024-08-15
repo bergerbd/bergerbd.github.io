@@ -10,13 +10,14 @@ layout: home
 
 ## 2024
 
+_Akshay Arjun_. **Optimizing SystemC Models: Fault Injection for Enhanced Functional Verification using COSEDA Library**. _Project Thesis_, Hamburg University of Technology, 2024 **in progress**.
+
 _Malte Burmester_. **Graph Databases for Hardware-Design IR**. _Bachelor
-Thesis_, Hamburg University of Technology, 2024 **in progress**.
+Thesis_, Hamburg University of Technology, 2024.
 
 _Muhammed Yildiz_. **Wie verhalten sich verschiedene Optimierungsverfahren auf
 Benchmarkfunktionen am Beispiel von Hill Climbing, Simulated Annealing und
-evolutionäre Algorithmen**. _Bachelor Thesis_, University of Bremen, 2024
-**(in progress)**.
+evolutionäre Algorithmen**. _Bachelor Thesis_, University of Bremen, 2024.
 
 _Majd Wahbi_. **Verbesserung der Effizienz von Testprogrammen an einem
 Flying-Probe-Tester mit Boundary Scan**, Hamburg University of Technology, 2024.
