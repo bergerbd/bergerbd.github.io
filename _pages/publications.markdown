@@ -14,7 +14,7 @@ In _16th International Workshop on Boolean Problems_, Bremen, Germany, 2024. **(
 
 [40] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl<sup>2048</sup>**.
 In _GECCO'24 - The Genetic and Evolutionary Computation Conference Companion_,
-Melbourne, Australia, 2024. **(competition contribution)**. [Online](https://arxiv.org/abs/2408.16780){: .chip .online}
+Melbourne, Australia, 2024. **(competition contribution)**. [Online](https://arxiv.org/abs/2408.16780){: .chip .online} [Competition Winner](){: .chip .award}
 
 [39] _Bernhard J. Berger, Christina Plump, Lauren Paul and Rolf Drechsler_. **EvoAl &mdash; Codeless Domain-Optimisation**.
 In _GECCO '24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion_,
