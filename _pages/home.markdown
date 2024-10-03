@@ -6,13 +6,19 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
-Starting from April 2024, I am working as an interim professor at the
-[University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim professorship in the
-[software engineering department](https://se.informatik.uni-rostock.de/home/).
-Until April 2024, I was a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
+Starting from October 2024, I am working as a full-time substitute professor for *Secure
+Systems* at the [University of Bremen](https://www.uni-bremen.de/en/). In parallel, I am
+a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
 the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
-to the [Hamburg University of Technology](https://www.tuhh.de). Before working here, I was
-a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
+to the [Hamburg University of Technology](https://www.tuhh.de), and I am holding this
+tenured position since October 2021. During my time in Bremen, I reduced this position to
+a part-time position. Between April and July 2024, I was working as a substitute professor
+at the [University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim
+professorship in the [software engineering department](https://se.informatik.uni-rostock.de/home/).
+During this time, I paused my lectureship at Hamburg University of Technology. 
+Before October 2021, I was a research assistant and member of the
+[software engineering group](https://www.uni-bremen.de/en/st) at the
+[University of Bremen](https://www.uni-bremen.de).
 
 ## Research
 My PhD thesis took quite a while because of several additional research topics I
@@ -30,11 +36,11 @@ hardware components using *ArchSec* and on a knowledge base containing hardware-
 security flaws. 
 
 ### Optimisation research
-Based on different research ideas, we are working on a research software for optimisation
-research and extended it with our research ideas. The corresponding tool,
-[*EvoAl*](https://www.evoal.de) focuses on making optimisation algorithms configurable. We
-aim at reducing the programming overhead to zero for standard optimisation algorithms. Instead,
-you write a configuration file using a domain-specific language to orchestrate the optimisation
+Based on different research ideas, we are working on a research software for optimisation research
+and extended it with our research ideas. The corresponding tool, [*EvoAl*](https://www.evoal.de)
+focuses on making optimisation algorithms configurable by applying ideas from model-driven
+engineering. We aim at reducing the programming overhead to zero for standard optimisation algorithms.
+Instead, you write a configuration file using a domain-specific language to orchestrate the optimisation
 algorithm with different options.
 
 
