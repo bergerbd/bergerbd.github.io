@@ -9,13 +9,16 @@ layout: home
 ---
 
 ## Winter Term 2024
-_Betriebssysteme_. **Prof. Dr. Bernhard J. Berger**. Universität Bremen.
+_Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
+Dr. Görschwin Fey**. Hamburg University of Technology. 
 
-_Nature-Inspired Optimisation_. **Prof. Dr. Bernhard J. Berger**. Universität Bremen.
+_Operating Systems_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
 
-_Software-Reengineering_. **Prof. Dr. Bernhard J. Berger**. Universität Bremen.
+_Nature-Inspired Optimisation_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
 
-_Projekt Endless Optimisation - EIO4Future_. **Prof. Dr. Bernhard J. Berger**. Universität Bremen.
+_Software-Reengineering_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
+
+_Project: Endless Optimisation - EIO4Future_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
 
 ## Summer Term 2024
 _Software Engineering für KI-basierte Systeme_.  **Dr. rer. nat. Bernhard
