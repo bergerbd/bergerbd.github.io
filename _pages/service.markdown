@@ -12,6 +12,8 @@ _Program Committee member_ of the **[33rd ACM/IEEE International Conference on P
 
 _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2025.msrconf.org)**, 2025. 
 
+_Program Committee member_ of the **[20th International Conference on Availability, Reliability and Security (ARES 2025)](https://www.ares-conference.eu)**, 2025.
+
 ## 2024
 _Reviewer_ in a selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
 
