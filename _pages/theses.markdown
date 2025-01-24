@@ -8,9 +8,20 @@ classes: wide
 layout: home
 ---
 
+## 2025
+
+_Luca Müller_. **Exploring Polynomial Formal Verification with Parametrized Complexity of the
+Boolean Satisfiability Problem**. _Master Thesis_, University of Bremen, 2025.
+
+_Marcel Franzen_. **A GPT-enhanced Systematic Mapping Study on Evolutionary Computing**.
+_Master Thesis_, University of Bremen, 2025.
+
 ## 2024
 
-_Akshay Arjun_. **Optimizing SystemC Models: Fault Injection for Enhanced Functional Verification using COSEDA Library**. _Project Thesis_, Hamburg University of Technology, 2024 **in progress**.
+_Anne-Sophie Waterstradt_. **Verwendung einer Dom ̈anenspezifischen Sprache zur Beschreibung von 
+Machine-Learning-Modellen**. _Master Thesis_, University of Rostock, 2024.
+
+_Akshay Arjun_. **Optimizing SystemC Models: Fault Injection for Enhanced Functional Verification using COSEDA Library**. _Project Thesis_, Hamburg University of Technology, 2024.
 
 _Malte Burmester_. **Graph Databases for Hardware-Design IR**. _Bachelor
 Thesis_, Hamburg University of Technology, 2024.
