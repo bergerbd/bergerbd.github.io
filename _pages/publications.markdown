@@ -11,7 +11,7 @@ classes: wide
 ## 2025
 [42] _Bernhard J. Berger and Christina Plump and Rolf Drechsler_. **Why less is sometimes more:
 Using Boolean literals to solve 2048**. In _it - Information Technology_, Walter de Gruyter GmbH,
-ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi}
+ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi }
 
 ## 2024
 [41] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **Why Less is Sometimes More &mdash; Using Boolean Literals to Solve 2048**.
@@ -19,7 +19,7 @@ In _16th International Workshop on Boolean Problems_, Bremen, Germany, 2024. **(
 
 [40] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **EvoAl<sup>2048</sup>**.
 In _GECCO'24 - The Genetic and Evolutionary Computation Conference Companion_,
-Melbourne, Australia, 2024. **(competition contribution)**. [Online](https://arxiv.org/abs/2408.16780){: .chip .online} [Competition Winner](){: .chip .award}
+Melbourne, Australia, 2024. **(competition contribution)**. [Online](https://arxiv.org/abs/2408.16780){: .chip .online } [Competition Winner](){: .chip .award }
 
 [39] _Bernhard J. Berger, Christina Plump, Lauren Paul and Rolf Drechsler_. **EvoAl &mdash; Codeless Domain-Optimisation**.
 In _GECCO '24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion_,
