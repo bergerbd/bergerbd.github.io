@@ -6,32 +6,30 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
-Starting from October 2024, I am working as a full-time substitute professor for *Secure
-Systems* at the [University of Bremen](https://www.uni-bremen.de/en/). In parallel, I am
-a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html) at
-the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
-to the [Hamburg University of Technology](https://www.tuhh.de), and I am holding this
-tenured position since October 2021. During my time in Bremen, I reduced this position to
-a part-time position. Between April and July 2024, I was working as a substitute professor
-at the [University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim
-professorship in the [software engineering department](https://se.informatik.uni-rostock.de/home/).
-During this time, I paused my lectureship at Hamburg University of Technology. 
-Before October 2021, I was a research assistant and member of the
-[software engineering group](https://www.uni-bremen.de/en/st) at the
-[University of Bremen](https://www.uni-bremen.de).
+I am working as a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html)
+at the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
+to the [Hamburg University of Technology](https://www.tuhh.de), and I am holding this tenured
+position since October 2021. During this period, I took two brakes and was working from October 2024
+until March 2025 as a substitute professor for *Secure Systems* at the
+[University of Bremen](https://www.uni-bremen.de/en/). The second break was between April and July
+2024, where I was working as a substitute professor at the [University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim professorship in the [software engineering department](https://se.informatik.uni-rostock.de/home/). Before October 2021, I was a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
 
 ## Research
-My PhD thesis took quite a while because of several additional research topics I
-worked on. Besides writing grant proposals, I already advised colleagues working
-on different research projects related to static analysis and software security. After
-my PhD, I continued working on these topics in static analysis and software security and
-I am trying to use my knowledge in new domains, such as hardware design. Furthermore, I started
-with new topics, such as optimisation, where I am really interested in using
-software engineering knowledge in the optimisation domain.
+My key research interest are software security and software engineering. Within these fields, I am
+interested in doing research on architectural risk analysis and model-driven engineering. I started
+researching the automation of architectural risk analysis during my PhD and continued afterwards by
+extending this topic to hardware design. Here, I am supervising the BMBF project [ExViPaS](https://www.tuhh.de/es/ce/research/architectural-security-of-digital-hardware-designs). Additionally, I am working on using
+model-driven engineering techniques for describing meta-algorithms, such as optimisation and machine
+learning. 
 
 ### Architectural Risk Analysis
-I continue my work on architectural risk analysis using _ArchSec_. Currently, we transfer
-the ideas to the area of hardware design. Therefore, we are working on ideas to model
+My work on architectural risk analysis led to the architectural risk analysis tool-suite
+[ArchSec](https://www.archsec.de). _ArchSec_ uses modelling techniques to express extended
+dataflow diagrams. Based on these extended dataflow diagrams _ArchSec_ detects architectural
+security flaws automatically. Additionally, _ArchSec_ uses static-analysis techniques to
+extract extended dataflow diagrams from source code automatically.
+The [ExViPaS](https://www.tuhh.de/es/ce/research/architectural-security-of-digital-hardware-designs)
+project transfers this idea to hardware design. Therefore, we are working on ideas to model
 hardware components using *ArchSec* and on a knowledge base containing hardware-related
 security flaws. 
 
