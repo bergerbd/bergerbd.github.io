@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 ---
 ## 2025
+_Program Committee member_ of the **[Open Source Software for Evolutionary Computation (EvoOSS)](http://evooss.heuristiclab.com/) Workshop**, 2025.
 
 _Program Committee member_ of the **[4th International Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI)](https://demessai.github.io/)**, 2025.
 
