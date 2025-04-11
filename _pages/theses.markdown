@@ -9,6 +9,7 @@ layout: home
 ---
 
 ## 2025
+_Johann Arfmann-Knübel_. **Design and Evaluation of Reconfiguration Algorithms for Pivoting Cube-Shaped Robots**. _Bachelor Thesis_, University of Bremen, 2025.
 
 _Luca Müller_. **Exploring Polynomial Formal Verification with Parametrized Complexity of the
 Boolean Satisfiability Problem**. _Master Thesis_, University of Bremen, 2025.
