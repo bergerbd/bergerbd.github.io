@@ -10,8 +10,11 @@ layout: home
 
 ## Summer Term 2025
 _Computer Science for Engineers, revision course_. **Dr. rer. nat.
-Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
+Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
 of Technology. 
+
+_Project: Endless Optimisation - EIO4Future_. **Prof. Dr. Rolf Drechsler and Dr. rer nat Bernhard J. Berger**. University of Bremen.
+
 
 ## Winter Term 2024
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
@@ -23,7 +26,7 @@ _Nature-Inspired Optimisation_. **Prof. Dr. Bernhard J. Berger**. University of 
 
 _Software-Reengineering_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
 
-_Project: Endless Optimisation - EIO4Future_. **Prof. Dr. Bernhard J. Berger**. University of Bremen.
+_Project: Endless Optimisation - EIO4Future_. **Prof. Dr. Rolf Drechsler and Prof. Dr. Bernhard J. Berger**. University of Bremen.
 
 ## Summer Term 2024
 _Software Engineering für KI-basierte Systeme_.  **Dr. rer. nat. Bernhard
