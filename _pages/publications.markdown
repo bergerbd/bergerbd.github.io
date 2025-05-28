@@ -9,6 +9,14 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2025
+[43] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection — Towards a Fair
+Evaluation and Comparison** In _International Journal on Software and Systems Modeling (SoSyM)_, Springer
+Science and Business Media LLC. 2025. [accepted](){: .accepted.chip }
+
+[42] _Bernhard J. Berger and Christina Plump and Rolf Drechsler_. **Why less is sometimes more:
+Using Boolean literals to solve 2048**. In _it - Information Technology_, Walter de Gruyter GmbH,
+ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi }
+
 [42] _Bernhard J. Berger and Christina Plump and Rolf Drechsler_. **Why less is sometimes more:
 Using Boolean literals to solve 2048**. In _it - Information Technology_, Walter de Gruyter GmbH,
 ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi }
@@ -29,7 +37,7 @@ Melbourne, Australia, 2024. [DOI](https://doi.org/10.1145/3638530.3664154){: .ch
 [38] _Christina Plump, Daniel C. Hoinkiss, Jörn Huber, Bernhard J. Berger, Matthias Günther, Christoph
 Lüth and Rolf Drechsler_. **Finding the perfect MRI sequence for your patient --- Towards an optimisation 
 workflow for MRI-sequences**. In _IEEE World Congress on Computational Intelligence (IEEE WCCI 2024)_,
-Yokohama, Japan, 2024. [accepted](https://2024.ieeewcci.org){: .chip .accepted}
+Yokohama, Japan, 2024. [DOI](https://doi.org/10.1109/CEC60901.2024.10612198){: .chip .doi} [Online](https://agra.informatik.uni-bremen.de/doc/konf/cec2024_cp.pdf){: .chip .online}
 
 ## 2023
 [37] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
@@ -139,7 +147,7 @@ Properties**. In _Proceedings of the 24th ACM Symposium on Access Control Models
 Technologies (SACMAT 2019)_, Toronto, Kanada, 2019. [DOI](https://doi.org/10.1145/3322431.3325105){: .chip .doi}
 
 ## 2018
-[14] _Rainer Koschke, Urs-Bjoern Schmidt, Bernhard J. Berger_. **Built-in Clone Detection
+[13] _Rainer Koschke, Urs-Bjoern Schmidt, Bernhard J. Berger_. **Built-in Clone Detection
 in Meta Languages**. In _Proceedings of the Conference on Source Code Analysis and
 Manipulation (SCAM)_, IEEE Computer Society Press, 2018. [DOI](https://doi.org/10.1109/SCAM.2018.00026){: .chip .doi}
 
