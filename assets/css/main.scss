@@ -281,7 +281,17 @@ html {
   background-color: #164C99;
 }
 
-.accepted.chip  {
+.doi.chip:active  {
+  color: #FFFFFF;
+  background-color: #164C99;
+}
+
+.accepted.chip:visited  {
+  color: #FFFFFF;
+  background-color: #164C99;
+}
+
+.doi.chip  {
   color: #000000;
   background-color: #16e4d7;
 }
