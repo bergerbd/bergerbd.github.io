@@ -6,7 +6,14 @@ author: Bernhard Berger
 author_profile: true
 classes: wide
 ---
+## 2026
+_Member_ of a grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2026.
+
+_Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2026.msrconf.org)**, 2026. 
+
 ## 2025
+_Member_ of a grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2025.
+
 _Program Committee member_ of the **[Open Source Software for Evolutionary Computation (EvoOSS)](http://evooss.heuristiclab.com/) Workshop**, 2025.
 
 _Program Committee member_ of the **[4th International Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI)](https://demessai.github.io/)**, 2025.
@@ -18,7 +25,7 @@ _Program Committee member_ for the **[Mining Software Repositories Conference (M
 _Program Committee member_ of the **[20th International Conference on Availability, Reliability and Security (ARES 2025)](https://www.ares-conference.eu)**, 2025.
 
 ## 2024
-_Reviewer_ in a selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
+_Member_ of a grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2024.
 
 _Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2024)**, 2024.
 
