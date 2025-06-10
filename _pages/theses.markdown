@@ -9,6 +9,10 @@ layout: home
 ---
 
 ## 2025
+_Maximilian Piesbergen_. **Unified Representation of Individuals in Population-Based Optimisation Algorithms**. _Bachelor Thesis_, University of Bremen, 2025.
+
+_Lauren Paul_. **Similarity and explainability of tree-like game policies**.  _Bachelor Thesis_, University of Bremen, 2025.
+
 _Johann Arfmann-Knübel_. **Design and Evaluation of Reconfiguration Algorithms for Pivoting Cube-Shaped Robots**. _Bachelor Thesis_, University of Bremen, 2025.
 
 _Luca Müller_. **Exploring Polynomial Formal Verification with Parametrized Complexity of the
