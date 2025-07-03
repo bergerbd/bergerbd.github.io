@@ -11,7 +11,11 @@ _Member_ of a grant selection committee for the **[German Academic Exchange Serv
 
 _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2026.msrconf.org)**, 2026. 
 
+_Program Committee member_ of the **[34th ACM/IEEE International Conference on Program Comprehension (ICPC 2026)](https://conf.researchr.org/home/icpc-2026)**, 2026.
+
 ## 2025
+Reviewer for the Journal **[Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming)**, ScienceDirect, 2025.
+
 _Member_ of a grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2025.
 
 _Program Committee member_ of the **[Open Source Software for Evolutionary Computation (EvoOSS)](http://evooss.heuristiclab.com/) Workshop**, 2025.
