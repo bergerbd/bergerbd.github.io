@@ -10,12 +10,12 @@ classes: wide
 
 ## 2025
 [43] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection — Towards a Fair
-Evaluation and Comparison** In _International Journal on Software and Systems Modeling (SoSyM)_, Springer
-Science and Business Media LLC. 2025. [accepted](){: .accepted.chip }
+Evaluation and Comparison** In _Software and Systems Modeling (SoSyM)_, Springer Science and Business
+Media LLC. ISSN 1619-1374. 06/2025. [DOI](https://dx.doi.org/10.1007/s10270-025-01300-6){: .chip .doi }
 
 [42] _Bernhard J. Berger and Christina Plump and Rolf Drechsler_. **Why less is sometimes more:
 Using Boolean literals to solve 2048**. In _it - Information Technology_, Walter de Gruyter GmbH,
-ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi }
+ISSN: 2196-7032. February, 2025. [DOI](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .doi } [Online](http://dx.doi.org/10.1515/itit-2024-0072){: .chip .online}
 
 ## 2024
 [41] _Bernhard J. Berger, Christina Plump and Rolf Drechsler_. **Why Less is Sometimes More &mdash; Using Boolean Literals to Solve 2048**.
