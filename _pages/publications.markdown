@@ -9,8 +9,12 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2025
+[44] _Srinidhi Rathnakar Ganiga, Bernhard J. Berger and Goerschwin Fey_. **Leveraging the Benefits
+of Information Flow Tracking for Detecting Hardware Design Flaws**. In _2025 Forum on Specification
+& Design Languages (FDL)_, St. Goar, Germany, 2025. [accepted for publication](){: .chip .accepted }
+
 [43] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection — Towards a Fair
-Evaluation and Comparison** In _Software and Systems Modeling (SoSyM)_, Springer Science and Business
+Evaluation and Comparison**. In _Software and Systems Modeling (SoSyM)_, Springer Science and Business
 Media LLC. ISSN 1619-1374. 06/2025. [DOI](https://dx.doi.org/10.1007/s10270-025-01300-6){: .chip .doi }
 
 [42] _Bernhard J. Berger and Christina Plump and Rolf Drechsler_. **Why less is sometimes more:
