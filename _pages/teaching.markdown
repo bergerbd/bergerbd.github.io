@@ -8,6 +8,12 @@ classes: wide
 layout: home
 ---
 
+## Winter Term 2025/202026
+_Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
+Dr. Görschwin Fey**. Hamburg University of Technology. 
+
+_Operating Systems_. **Dr. Bernhard J. Berger**. University of Bremen.
+
 ## Summer Term 2025
 _Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
