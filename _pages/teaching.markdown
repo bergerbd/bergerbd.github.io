@@ -8,7 +8,7 @@ classes: wide
 layout: home
 ---
 
-## Winter Term 2025/202026
+## Winter Term 2025/2026
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
 Dr. Görschwin Fey**. Hamburg University of Technology. 
 
@@ -22,7 +22,7 @@ of Technology.
 _Project: Endless Optimisation - EIO4Future_. **Prof. Dr. Rolf Drechsler and Dr. rer nat Bernhard J. Berger**. University of Bremen.
 
 
-## Winter Term 2024
+## Winter Term 2024/2025
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
 Dr. Görschwin Fey**. Hamburg University of Technology. 
 
@@ -41,7 +41,7 @@ J. Berger**. Universität Rostock.
 _Model-basierte Entwicklung von Domänenspezifischen Sprachen_. **Dr. rer. nat.
 Bernhard J. Berger**. Universität Rostock.
 
-## Winter Term 2023
+## Winter Term 2023/2024
 _Meaningful Data -- From Information to Knowledge_. **Dr. rer. nat. Bernhard
 J. Berger and Christina Plump**. U Bremen Research Alliance.
 
@@ -62,7 +62,7 @@ _Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
 of Technology. 
 
-## Winter Term 2022
+## Winter Term 2022/2023
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger
 and Prof. Dr. Görschwin Fey**. Hamburg University of Technology. 
 
@@ -74,12 +74,12 @@ _Computer Science for Engineers, revision course_. **Dr. rer. nat.
 Bernhard  J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
 of Technology. 
 
-## Winter Term 2021
+## Winter Term 2021/2022
 _Computer Science for Engineers_. **Prof. Dr. Görschwin Fey, Dipl. Inf.
 Bernhard  J. Berger, M. Sc. Lutz Schammer and M.Sc. Swantje Plambeck**.
 Hamburg University of Technology. 
 
-## Winter Term 2020
+## Winter Term 2020/2021
 _Software Project 2_. **Dr. Hui Shi, Amadou and Dr. Karsten Hölscher**. 
 University of Bremen.
 
@@ -87,7 +87,7 @@ University of Bremen.
 _Software Project 1_. **Dr. Hui Shi, Amadou and Dr. Karsten Hölscher**.
 University of Bremen.
 
-## Winter Term 2019
+## Winter Term 2019/2020
 _Software Project 2_. **Prof. Dr Rainer Koschke and Bernhard J. Berger**.
 University of Bremen.
 
@@ -95,7 +95,7 @@ University of Bremen.
 _Software Project 1_. **Prof. Dr Rainer Koschke and Bernhard J. Berger**.
 University of Bremen.
 
-## Winter Term 2018
+## Winter Term 2018/2019
 _Software Project 1_. **Prof. Dr Rainer Koschke and Marcel Steinbeck**.
 University of Bremen.
 
