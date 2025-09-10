@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 ## 2026
-_Member_ of a grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2026.
+_Permanent member_ of the DAAD grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2026.
 
 _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2026.msrconf.org)**, 2026. 
 
