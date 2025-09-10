@@ -23,7 +23,7 @@ _Master Thesis_, University of Bremen, 2025.
 
 ## 2024
 
-_Anne-Sophie Waterstradt_. **Verwendung einer Dom ̈anenspezifischen Sprache zur Beschreibung von 
+_Anne-Sophie Waterstradt_. **Verwendung einer Dom&auml;nenspezifischen Sprache zur Beschreibung von 
 Machine-Learning-Modellen**. _Master Thesis_, University of Rostock, 2024.
 
 _Akshay Arjun_. **Optimizing SystemC Models: Fault Injection for Enhanced Functional Verification using COSEDA Library**. _Project Thesis_, Hamburg University of Technology, 2024.
