@@ -10,7 +10,7 @@ layout: home
 
 ## Winter Term 2025/2026
 _Informatik-Ingenieurwesen Projekt: SEEAS_. **Swantje Plambeck, Dr. rer. nat.
-Bernhard J. Berger and Prof. Dr. Bernhard J. Berger**. Hamburg University of Technology.
+Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University of Technology.
 
 _Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
 Dr. Görschwin Fey**. Hamburg University of Technology. 
