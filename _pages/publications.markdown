@@ -11,7 +11,9 @@ classes: wide
 ## 2025
 [44] _Srinidhi Rathnakar Ganiga, Bernhard J. Berger and Goerschwin Fey_. **Leveraging the Benefits
 of Information Flow Tracking for Detecting Hardware Design Flaws**. In _2025 Forum on Specification
-& Design Languages (FDL)_, St. Goar, Germany, 2025. [accepted for publication](){: .chip .accepted }
+& Design Languages (FDL)_, St. Goar, Germany, 2025. [DOI](https://dx.doi.org/10.1109/FDL68117.2025.11165404){: .chip .doi } [Online](https://doi.org/10.1109/FDL68117.2025.11165404){: .chip .online}
+
+
 
 [43] _Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection — Towards a Fair
 Evaluation and Comparison**. In _Software and Systems Modeling (SoSyM)_, Springer Science and Business
@@ -87,7 +89,7 @@ für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ), 2023 
 [26] _Lorenz Hüther, Bernhard J. Berger, Stefan Edelkamp, Sebastian Eken, Lara
 Luhrmann, Hendrik Rothe, Marcus-Sebastian Schröder and Karsten Sohr_.
 **Machine Learning in the Context of Static Application Security Testing -
-ML-SAST**. Editor: _Federal Office for Information Security_, 2022. [Online](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/ML-SAST/ML-SAST-Studie.html?nn=1067938){: .chip .online}
+ML-SAST**. Editor: _Federal Office for Information Security_, 2022. [Online](https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Studien/ML-SAST/ml-sast_node.html){: .chip .online}
 
 [25] _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Using density of
 training data to improve evolutionary algorithms with approximative fitness
