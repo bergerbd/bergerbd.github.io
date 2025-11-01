@@ -9,6 +9,8 @@ layout: home
 ---
 
 ## 2025
+_Maurice Burfeindt_. **Model-based Implementation of different machine-learning algorithms and their application**. _Bachelor Thesis_, University of Bremen, 2025.
+
 _Maximilian Piesbergen_. **Unified Representation of Individuals in Population-Based Optimisation Algorithms**. _Bachelor Thesis_, University of Bremen, 2025.
 
 _Lauren Paul_. **Similarity and explainability of tree-like game policies**.  _Bachelor Thesis_, University of Bremen, 2025.
