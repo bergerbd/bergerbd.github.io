@@ -10,6 +10,8 @@ classes: wide
 
 _Program Commiteee member_ for the [*Ideas, Visions and Reflections* track](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) at the [ACM International Conference on the Foundations of Software Engineering](https://conf.researchr.org/home/fse-2026), 2026.
 
+_Program Commiteee member_ for the *Explainable and Trustworthy Applications Track* of the Euromicro SEAA Conference, 2026.
+
 _Permanent member_ of the DAAD grant selection committee for the **[German Academic Exchange Service (DAAD)](https://www.daad.de/en/)**, 2026.
 
 _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://2026.msrconf.org)**, 2026. 
