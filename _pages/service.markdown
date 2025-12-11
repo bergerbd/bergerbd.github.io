@@ -8,6 +8,9 @@ classes: wide
 ---
 ## 2026
 
+_Program Co-Chair_ of the 17<sup>th</sup> International Workshop
+on Boolean Problems, Bremen, 2026.
+
 _Program Commiteee member_ for the [*Ideas, Visions and Reflections* track](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) at the [ACM International Conference on the Foundations of Software Engineering](https://conf.researchr.org/home/fse-2026), 2026.
 
 _Program Commiteee member_ for the *Explainable and Trustworthy Applications Track* of the Euromicro SEAA Conference, 2026.
