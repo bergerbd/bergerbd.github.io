@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 ---
 ## 2026
+_Member of the ROAR-NET API Committee_ of the Cost Action **CA22137 - Randomised Optimisation Algorithms Research Network**.
 
 _Program Co-Chair_ of the 17<sup>th</sup> **[International Workshop on Boolean Problems (IWSBP)](https://www.informatik.uni-bremen.de/iwsbp/index.php)**, Bremen, 2026.
 
