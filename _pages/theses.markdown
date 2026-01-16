@@ -1,5 +1,5 @@
 ---
-title: "Supervised Diploma / Master / Project / Bachelor Theses"
+title: "Supervised or Reviewed Theses"
 permalink: /pages/theses
 date: 2021-09-07T17:59:00+02:00
 author: Bernhard Berger
