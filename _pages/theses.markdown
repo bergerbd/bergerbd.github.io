@@ -9,6 +9,8 @@ layout: home
 ---
 
 ## 2026
+_Alexander Hellmann_. **Developing Encodings and Operators for Image Search Spaces**. _Bachelor Thesis_, University of Bremen, 2026.
+
 _Philip Klaila_. **Integration und Visualisierung einer domäneninformierten, 
 constraintbasierten Datenvalidierung**. _Bachelor Thesis_, University of Bremen, 2026.
 
