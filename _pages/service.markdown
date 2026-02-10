@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 ---
 ## 2026
+_Reviewer_ for the **[2026 IEEE World Congress on Computational Intelligence](https://attend.ieee.org/wcci-2026/)**, 2026.
 
 _Program Committee member_ for the **[Seventeenth International Conference on Swarm Ingelligence (ICSI)](https://iasei.org/icsi2026/)**, 2026.
 
