@@ -9,6 +9,11 @@ classes: wide
 [![Publications and Research Topics](/assets/images/subway.png){: .full}](/assets/images/subway.png)
 
 ## 2025
+[45] _Rolf Drechsler, Christina Plump and Bernhard J. Berger_. **Explanation in Bio-inspired
+Computing: Towards Understanding of AI Systems**. 2025 International Conference on Artificial
+Intelligence for Computing, Astronomy and Renewable Energy (AICARE), Kolkata, India, 2025.
+[DOI](https://dx.doi.org/10.1109/AICARE66005.2025.11402700){: .chip .doi }
+
 [44] _Srinidhi Rathnakar Ganiga, Bernhard J. Berger and Goerschwin Fey_. **Leveraging the Benefits
 of Information Flow Tracking for Detecting Hardware Design Flaws**. In _2025 Forum on Specification
 & Design Languages (FDL)_, St. Goar, Germany, 2025. [DOI](https://dx.doi.org/10.1109/FDL68117.2025.11165404){: .chip .doi } [Online](https://doi.org/10.1109/FDL68117.2025.11165404){: .chip .online}
