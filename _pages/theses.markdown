@@ -9,7 +9,13 @@ layout: home
 ---
 
 ## 2026
-_Alexander Hellmann_. **Developing Encodings and Operators for Image Search Spaces**. _Bachelor Thesis_, University of Bremen, 2026.
+_Simon Linowski_. **Sicherheitsanalyse einer zentralisierten Smart-Home-Anwendung**.
+_Bachelor Thesis_, University of Bremen, 2026.
+
+_Mert Celik_. **Machine Larning - but done right: Model-driven verification of
+Hyperparameters for ML Models**. _Bachelor Thesis_, University of Bremen, 2026.
+
+_Alexander Hellmann_. **Developing Encodings and Operators for Image Search Spaces**. _Bachelor Thesis_,
 
 _Philip Klaila_. **Integration und Visualisierung einer domäneninformierten, 
 constraintbasierten Datenvalidierung**. _Bachelor Thesis_, University of Bremen, 2026.
