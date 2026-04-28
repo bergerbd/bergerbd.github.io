@@ -9,6 +9,9 @@ layout: home
 ---
 
 ## 2026
+_Tim Malich_. **Lifecycle-Aware Access Control Modelling for Hardware Designs**..
+_Bachelor Thesis_, Hamburg University of Technology, 2026.
+
 _Simon Linowski_. **Sicherheitsanalyse einer zentralisierten Smart-Home-Anwendung**.
 _Bachelor Thesis_, University of Bremen, 2026.
 
