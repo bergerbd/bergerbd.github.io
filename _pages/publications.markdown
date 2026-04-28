@@ -11,15 +11,15 @@ classes: wide
 ## 2026
 [49] _Nils Leusmann, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Enhancing Surrogate
 Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _GECCO'26 - The Genetic
-and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.  {: .chip .accepted}[accepted](#)
+and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.  [accepted](#){: .chip .accepted}
 
 [48] _Lauren Paul, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Can Explainability Metrics
 Improve Genetic Programming? Lessons from 2048**. In _GECCO'26 - The Genetic and Evolutionary Computation
-Conference Companion_, San José, Costa Rica, 2026.  {: .chip .accepted}[accepted](#)
+Conference Companion_, San José, Costa Rica, 2026.  [accepted](#){: .chip .accepted}
 
 [47] _Bernhard J. Berger, Christina Plump, and Rolf Drechsler_. **Ride-Sharing Simulation for Optimization**.
 In _GECCO'26 - The Genetic and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.
-{: .chip .accepted }[accepted](#)
+[accepted](#){: .chip .accepted }
 
 [46] _Srinidhi Rathnakar Ganiga, Bernhard J. Berger and Goerschwin Fey_. **Information Flow Behavior
 Analysis**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungenund Systemen (TUZ),
