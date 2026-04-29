@@ -94,7 +94,7 @@ feature_row_exvipas:
     to use the research results.<br/><br/>
 
   *Project duration:* 2024 - 2027 <br />
-  *Publications:*  "
+  *Publications:*  [44](./publications#2025), [46](./publications#2026)
   image_path: "/assets/images/logo-bmbf.svg"
   alt: "BMBF logo."
   

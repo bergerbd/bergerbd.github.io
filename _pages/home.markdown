@@ -14,6 +14,7 @@ until March 2025 as a substitute professor for *Secure Systems* at the
 [University of Bremen](https://www.uni-bremen.de/en/). The second break was between April and July
 2024, where I was working as a substitute professor at the [University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim professorship in the [software engineering department](https://se.informatik.uni-rostock.de/home/). Before October 2021, I was a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
 
+
 ## Research
 My key research interest are software security and software engineering. Within these fields, I am
 interested in doing research on architectural risk analysis and model-driven engineering. I started

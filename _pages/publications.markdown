@@ -22,7 +22,7 @@ In _GECCO'26 - The Genetic and Evolutionary Computation Conference Companion_, S
 [accepted](#){: .chip .accepted }
 
 [46] _Srinidhi Rathnakar Ganiga, Bernhard J. Berger and Goerschwin Fey_. **Information Flow Behavior
-Analysis**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungenund Systemen (TUZ),
+Analysis**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen und Systemen (TUZ),
 2026 **(workshop contribution)**.
 
 ## 2025
@@ -125,7 +125,7 @@ Doctoral Thesis, 2022. [DOI](https://doi.org/10.26092/elib/1453){: .chip .doi}
 [22] _Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **Choosing the right
 technique for the right restriction - a domain-specific approach for enforcing
 search-space restrictions in evolutionary algorithms**. In _Proceedings of the
-8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022. [DOI](https://link.springer.com/chapter/10.1007/978-3-031-05359-7_28){: .chip .doi}[Online](https://agra.informatik.uni-bremen.de/doc/konf/LDIC2022Plump.pdf){: .chip .online}
+8th International Conference on Dynamics in Logistics – LDIC 2022_, 2022. [DOI](https://link.springer.com/chapter/10.1007/978-3-031-05359-7_28){: .chip .doi} [Online](https://agra.informatik.uni-bremen.de/doc/konf/LDIC2022Plump.pdf){: .chip .online}
 
 
 ## 2021
