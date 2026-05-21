@@ -9,7 +9,10 @@ layout: home
 ---
 
 ## 2026
-_Tim Malich_. **Lifecycle-Aware Access Control Modelling for Hardware Designs**..
+_Torben Hedelt_. **Static Taint Analysis of Verilog Code using an IFDS Analysis**.
+_Bachelor Thesis_, Hamburg University of Technology, 2026.
+
+_Tim Malich_. **Lifecycle-Aware Access Control Modelling for Hardware Designs**.
 _Bachelor Thesis_, Hamburg University of Technology, 2026.
 
 _Simon Linowski_. **Sicherheitsanalyse einer zentralisierten Smart-Home-Anwendung**.
