@@ -9,6 +9,9 @@ layout: home
 ---
 
 ## 2026
+_Luc Täschner_. **Implementierung und Auswertung eines auf SpinalHDL basierten Hardware-Generators
+für Künstliche Neuronale Netze**. _Bachelor Thesis_, University of Bremen, 2026.
+
 _Torben Hedelt_. **Static Taint Analysis of Verilog Code using an IFDS Analysis**.
 _Bachelor Thesis_, Hamburg University of Technology, 2026.
 
