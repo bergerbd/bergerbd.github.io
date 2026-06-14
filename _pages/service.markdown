@@ -7,6 +7,8 @@ author_profile: true
 classes: wide
 ---
 ## 2026
+_Reviewer_ for the **[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)**, 2026.
+
 _Organiser_  of the **[GECCO'26 Explainable ride-sharing optimisation for 
 sustainable traffic organisation competition](https://evoal.de/pages/competition26)**, 2026.
 
