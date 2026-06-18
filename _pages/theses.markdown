@@ -9,6 +9,9 @@ layout: home
 ---
 
 ## 2026
+_Denis Braunagel_. **Evaluating the provision of research software using container orchestration
+solutions**. _Bachelor Thesis_, University of Bremen, 2026.
+
 _Luc Täschner_. **Implementierung und Auswertung eines auf SpinalHDL basierten Hardware-Generators
 für Künstliche Neuronale Netze**. _Bachelor Thesis_, University of Bremen, 2026.
 
