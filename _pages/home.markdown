@@ -19,9 +19,12 @@ I am a computer scientist researching at the intersection of **Model-Driven Engi
 
 Currently, I serve as a tenured Lecturer at the **[Hamburg University of Technology](https://www.tuhh.de)**, following successful appointments as an interim professor for **Secure Systems** at the **University of Bremen** and for **Software Engineering** at the **University of Rostock**.
 
-{% include notice type="info" icon="lightbulb" title="Current Research Spotlight (2024 – 2027)" %}
-I am actively leading the **ExViPaS** (funded by the German Federal Ministry of Research, Technology, and Space, BMFTR) as a Co-PI. In this project, we leverage model-driven techniques, and dynamic and static analysis to extract and verify hardware/software boundaries.
-{% endnotice %}
+<div class="notice--info">
+  <h4>💡 Current Research Spotlight (2024 – 2027)</h4>
+  <p>I am actively leading the **ExViPaS** (funded by the German Federal Ministry of Research, Technology, and Space, BMFTR) as a Co-PI. In this project, we leverage model-driven techniques, and dynamic and static analysis to extract and verify hardware/software boundaries.
+</p>
+</div>
+
 
 ## Core Research
 
