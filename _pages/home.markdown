@@ -2,7 +2,6 @@
 layout: splash
 title: "About Me"
 permalink: /
-author_profile: true
 feature_row:
   - image_path: /assets/images/feature-security.svg
     title: "Automated Software & Hardware Security"
@@ -13,6 +12,18 @@ feature_row:
   - image_path: /assets/images/feature-static.svg
     title: "Program Comprehension & Static Analysis"
     excerpt: "Developing frameworks for static program analysis and program comprehension, translating complex source code artifacts into structured, queryable models."
+author_profile: false # Auf echten Splash-Pages meist false, damit der Header volle Breite hat
+
+header:
+    overlay_image: /assets/images/header-campus.jpg # Das Hintergrundbild
+    overlay_filter: 0.5 # Legt einen dunklen Schleier (50% Opazität) über das Bild, damit weißer Text lesbar bleibt
+    title: "Dr. Bernhard J. Berger"
+    excerpt: "Model-Driven Engineering &middot; Secure Systems &middot; Program Analysis"
+    cta_label: "Explore My Research"
+    cta_url: "/pages/projects/"
+    actions:
+        - label: "View Publications"
+        url: "/pages/publications"
 ---
 
 I am a computer scientist researching at the intersection of **Model-Driven Engineering (MDE), Domain-Specific Languages (DSLs), Program Analysis, and Software Security**. My mission is to bridge the gap between high-level architectural abstractions and low-level system realities&mdash;making risk analysis, security checking, and complex systems optimization automated, scalable, and accessible through tailor-made languages and tools.
