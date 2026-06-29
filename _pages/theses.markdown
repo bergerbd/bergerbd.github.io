@@ -9,6 +9,9 @@ layout: home
 ---
 
 ## 2026
+_Lukas Duden_. **Visualizing the Inheritance Information of Bio-Inspired
+Algorithms**. _Project Work_, Hamburg University of Technology, 2026.
+
 _Denis Braunagel_. **Evaluating the provision of research software using container orchestration
 solutions**. _Bachelor Thesis_, University of Bremen, 2026.
 
