@@ -1,107 +1,50 @@
 ---
-title: "About me"
+layout: single
+title: "About Me"
 permalink: /
-layout: home
-author: Bernhard Berger
 author_profile: true
-classes: wide
+feature_row:
+  - image_path: /assets/images/feature-security.svg
+    title: "Automated Software & Hardware Security"
+    excerpt: "Security must be planned and embedded into the software architecture. My research focuses on automated threat modeling and static analysis (SAST) to systematically detect architectural security flaws before deployment."
+  - image_path: /assets/images/feature-optimization.svg
+    title: "Model-Driven Optimization & DSLs"
+    excerpt: "Applying meta-heuristics to domain problems is a challenging task. My research bridges this gap by developing and researching a model-driven optimization and learning ecosystem powered by Domain-Specific Languages (DSLs) for domain experts."
+  - image_path: /assets/images/feature-static.svg
+    title: "Program Comprehension & Static Analysis"
+    excerpt: "Developing frameworks for static program analysis and program comprehension, translating complex source code artifacts into structured, queryable models."
 ---
-I am working as a lecturer at the [Computer Engineering Group](https://www.tuhh.de/es/ce.html)
-at the [Institute of Embedded Systems](https://www.tuhh.de/es/home.html). The institute belongs
-to the [Hamburg University of Technology](https://www.tuhh.de), and I am holding this tenured
-position since October 2021. During this period, I took two brakes and was working from October 2024
-until March 2025 as a substitute professor for *Secure Systems* at the
-[University of Bremen](https://www.uni-bremen.de/en/). The second break was between April and July
-2024, where I was working as a substitute professor at the [University of Rostock](https://www.uni-rostock.de/en/). There, I hold the interim professorship in the [software engineering department](https://se.informatik.uni-rostock.de/home/). Before October 2021, I was a research assistant and member of the [software engineering group](https://www.uni-bremen.de/en/st) at the [University of Bremen](https://www.uni-bremen.de).
 
+I am a computer scientist researching at the intersection of **Model-Driven Engineering (MDE), Domain-Specific Languages (DSLs), Program Analysis, and Software Security**. My mission is to bridge the gap between high-level architectural abstractions and low-level system realities&mdash;making risk analysis, security checking, and complex systems optimization automated, scalable, and accessible through tailor-made languages and tools.
 
-## Research
-My key research interest are software security and software engineering. Within these fields, I am
-interested in doing research on architectural risk analysis and model-driven engineering. I started
-researching the automation of architectural risk analysis during my PhD and continued afterwards by
-extending this topic to hardware design. Here, I am supervising the BMBF project [ExViPaS](https://www.tuhh.de/es/ce/research/architectural-security-of-digital-hardware-designs). Additionally, I am working on using
-model-driven engineering techniques for describing meta-algorithms, such as optimisation and machine
-learning. 
+Currently, I serve as a tenured Lecturer at the **[Hamburg University of Technology](https://www.tuhh.de)**, following successful appointments as an interim professor for **Secure Systems** at the **University of Bremen** and for **Software Engineering** at the **University of Rostock**.
 
-### Architectural Risk Analysis
-My work on architectural risk analysis led to the architectural risk analysis tool-suite
-[ArchSec](https://www.archsec.de). _ArchSec_ uses modelling techniques to express extended
-dataflow diagrams. Based on these extended dataflow diagrams _ArchSec_ detects architectural
-security flaws automatically. Additionally, _ArchSec_ uses static-analysis techniques to
-extract extended dataflow diagrams from source code automatically.
-The [ExViPaS](https://www.tuhh.de/es/ce/research/architectural-security-of-digital-hardware-designs)
-project transfers this idea to hardware design. Therefore, we are working on ideas to model
-hardware components using *ArchSec* and on a knowledge base containing hardware-related
-security flaws. 
+{% include notice type="info" icon="lightbulb" title="Current Research Spotlight (2024 – 2027)" %}
+I am actively leading the **ExViPaS** (funded by the German Federal Ministry of Research, Technology, and Space, BMFTR) as a Co-PI. In this project, we leverage model-driven techniques, and dynamic and static analysis to extract and verify hardware/software boundaries.
+{% endnotice %}
 
-### Optimisation research
-Based on different research ideas, we are working on a research software for optimisation research
-and extended it with our research ideas. The corresponding tool, [*EvoAl*](https://www.evoal.de)
-focuses on making optimisation algorithms configurable by applying ideas from model-driven
-engineering. We aim at reducing the programming overhead to zero for standard optimisation algorithms.
-Instead, you write a configuration file using a domain-specific language to orchestrate the optimisation
-algorithm with different options.
+## Core Research
 
+{% include feature_row %}
 
-### Static Analysis and Security Research
-We worked on using static analyses to extract different security
-aspects of software systems. [SeeAuthZ](https://github.com/uni-bremen-agst/SeeAuthZ),
-for instance, is a configurable analysis tool for extracting the implemented
-authorization policy. Therefore, it extracts the authorization facts that is enforced
-if the program accesses a sensitive resource. This information can be used to
-re-document the authorization policy if the developers lost it or never wrote it
-down or compare the implemented authorization policy with the planned policy to
-identify divergences. 
+### Research Overview
 
-For improving static analysis of enterprise systems, we created a new tool, called
-[eNYPD](https://uni-bremen-agst.github.io/eNYPD/) for finding application's entry-points
-and understanding the wiring of modern component-based software systems.
+#### Automated Software & Hardware Security
+By utilizing model-driven engineering, domain-specific languages, and static and dynamic analysis techniques to extract formal representations directly from source code or hardware descriptions, my research focuses on systematically detecting architectural security flaws, improper authorization mechanisms, and unplanned information flows at the software-level. Recently, I am extending this research to the hardware level.
+* **Key Artifacts & Projects:** *ExViPaS* (BMFTR), *ArchSec* (Best Engineering Paper Award @ SCAM '19), *ML-SAST* (BSI), *SeeAuthZ*.
 
-An interesting combination, which, hopefully, yields some interesting results is the
-combination of static analysis and machine learning to identify security bugs. In a 
-joint project with the [Federal Office for Information Security](https://www.bsi.bund.de/EN/Home/home_node.html),
-we used ICFGs to identify suspicious parts of a software system without explicitly
-coding security bug patterns.
+#### Model-Driven Optimization & DSLs
+Many problems require solving (multi-objective) optimization problems, from software product lines to hardware co-design. With EvoAl, my research enables domain experts to specify, configure, and execute randomized optimization algorithms, and model training without writing low-level code.
+* **Key Artifacts & Projects:** *EvoAl Ecosystem* (Winner of the GECCO '24 Competition), *CoDaPro* (DFG SFB 1232), Member of the ROAR-NET Cost Action.
 
-### Data processing
-Furthermore, I started to work on different aspects related to the [collaborative
-research centre 1232](https://www.uni-bremen.de/en/farbige-zustaende). The main
-idea of the CRC is to find new materials using big data and machine learning. In
-this context, [CoDaPro](https://codapro.de) was developed. _CoDaPro_ stands for
-component-based data processing and is a tool for data measurement and filtering.
+#### Program Comprehension & Static Analysis
+Modern software engineering relies on understanding legacy systems and massive, heterogeneous codebases. By translating complex source code artifacts into structured, queryable models using compiler-construction techniques, my research enables developers to automatically analyze data flows and ensure strict compliance with design constraints.
+* **Key Artifacts & Projects:** *eNYPD*, *ArchSec*.
 
-## PhD Topic
-After my diploma thesis, I refocused on the topic of Software Security. In my PhD
-thesis, I focused on automating [Microsoft's Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
-process. The publications can be found in the [publications section](/pages/publications)
-and on my [ResearchGate profile](https://www.researchgate.net/profile/Bernhard-Berger-2).
-The result of my thesis is [ArchSec](https://archsec.de), the _Architectural Security
-Tools Suite_. It is integrated into [Eclipse](https://www.eclipse.org/) and is based
-on [Soot](https://github.com/soot-oss/soot), a great static analysis framework for
-Java-bytecode-based programs. To automate Microsoft's Threat Modeling, I use static
-analyses to extract extended dataflow diagrams, an architectural view of a software
-system, automatically. Furthermore, a knowledge base was created to host security flaw 
-patterns. These patterns are searched in the extended dataflow diagrams. For more details
-on _ArchSec_ you can visit the [ArchSec homepage](https://archsec.de).
+---
 
-## Industry
-After my graduation, I worked for [Axivion GmbH](https://www.axivion.com/en/) for
-two years. Axivion is a static code analysis company, and their tool suite deals with
-inner software quality aspects and is now part of the [Qt group](https://www.qt.io).
-In my time at Axivion, I worked on different parts of their tool suite, starting with
-the analyser frontends, scripting binding, and their web interface. I also took part in
-workshops with customers regularly and gained insight into their software development 
-processes. After two years, I decided to return to academia and focus on research.
+## Bridging Research, Teaching & Community
 
-## Studies
-I graduated in December 2007 from the University of Bremen, and my diploma thesis,  which
-I wrote at [Bosch Corporate Research](https://www.bosch.com/research/), deals with clone
-detection for embedded software systems. The research question I  dealt with was whether
-it is possible to reduce the memory footprint of embedded software systems using clone
-detection. The short answer to this question was: _"No, it is not possible when using
-heavily optimising compilers."_ During my studies, I focused on topics such as software
-engineering, compiler construction, static analysis, and reverse engineering.
+**Research-Driven Teaching:** Based on my own experience, I deeply believe that high-quality education is fueled by active research. Especially project-based learning allow students at any level to improve their skills and learn technical and soft skills. In my opinion, teaching is a central part of my work and thus I am involved in undergraduate teaching, teaching at the Master's level and supervising theses that directly contribute to open-source research tools, DSL design, and academic publications.
 
-
-
-
+**Community Engagement:** I am a deeply rooted member of the scientific community, regularly serving on program committees for premier venues (such as *MSR, ICPC, FSE-IVR*) and organizing international competitions (like the *GECCO Competitions*).
