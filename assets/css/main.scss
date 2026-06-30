@@ -38,7 +38,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 12px;
+  font-size: $type-size-5;
 
   @include breakpoint($medium) {
     font-size: 14px;
@@ -153,7 +153,7 @@ html {
         float: right;
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
-        width: span(3 of 12);
+        width: span(9 of 12);
       }
     }
   }
@@ -195,7 +195,7 @@ html {
 
       .archive__item-body {
         float: left;
-        width: span(3 of 12);
+        width: span(9 of 12);
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
       }
@@ -238,7 +238,7 @@ html {
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(3 of 12);
+        width: span(9 of 12);
       }
     }
   }
@@ -299,7 +299,7 @@ a:active {
   text-decoration: none;
 }
 
- .archive__item-excerpt {
+.archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
 }
