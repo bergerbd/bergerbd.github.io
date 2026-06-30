@@ -6,10 +6,10 @@ feature_row:
   - image_path: /assets/images/feature-security.svg
     title: "Automated Software & Hardware Security"
     excerpt: "Security must be planned and embedded into the software architecture. My research focuses on automated threat modeling and static analysis (SAST) to systematically detect architectural security flaws before deployment."
-  - image_path: /assets/images/feature-optimization.png
+  - image_path: /assets/images/feature-optimization.svg
     title: "Model-Driven Optimization & DSLs"
     excerpt: "Applying meta-heuristics to domain problems is a challenging task. My research bridges this gap by developing and researching a model-driven optimization and learning ecosystem powered by Domain-Specific Languages (DSLs) for domain experts."
-  - image_path: /assets/images/feature-static.png
+  - image_path: /assets/images/feature-static.svg
     title: "Program Comprehension & Static Analysis"
     excerpt: "Developing frameworks for static program analysis and program comprehension, translating complex source code artifacts into structured, queryable models."
 author_profile: false
