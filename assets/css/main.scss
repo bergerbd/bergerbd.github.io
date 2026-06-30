@@ -76,7 +76,7 @@ html {
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(9 of 12);
+    width: span(3 of 12);
 
     &:nth-child(3n + 1) {
       clear: both;
