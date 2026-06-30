@@ -39,7 +39,7 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   font-size: $type-size-5;
-
+/*
   @include breakpoint($medium) {
     font-size: 14px;
   }
@@ -51,6 +51,7 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px;
   }
+    */
 }
 
 /*
