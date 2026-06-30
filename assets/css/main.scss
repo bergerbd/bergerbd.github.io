@@ -78,7 +78,7 @@ html {
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(3 of 12);
+    width: span(4 of 12);
 
     &:nth-child(3n + 1) {
       clear: both;
@@ -96,7 +96,8 @@ html {
     }
 
     .feature__item-teaser {
-      max-height: 200px;
+      height: 500px;
+      max-height: 500px;
       overflow: hidden;
     }
   }
