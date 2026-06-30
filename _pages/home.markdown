@@ -3,7 +3,7 @@ layout: splash
 title: "About Me"
 permalink: /
 feature_row:
-  - image_path: /assets/images/feature-security.png
+  - image_path: /assets/images/feature-security.svg
     title: "Automated Software & Hardware Security"
     excerpt: "Security must be planned and embedded into the software architecture. My research focuses on automated threat modeling and static analysis (SAST) to systematically detect architectural security flaws before deployment."
   - image_path: /assets/images/feature-optimization.png
