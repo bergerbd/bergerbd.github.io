@@ -244,7 +244,7 @@ html {
   }
 }
 
-.chip  {
+.chip {
   padding: 2px 10px;
   border-radius: 10px;
   text-decoration: none;
@@ -252,85 +252,43 @@ html {
   font-size: 60%;
 }
 
-
-/* unvisited link
-.chip:link {
-  color: white;
-}
-*/
-/* visited link 
-.chip:visited {
-  color: white;
-}
-*/
-
-/* mouse over link
-.chip:hover {
-  color: white;
-}
-*/
-
-/* selected link 
-.chip:active {
-  color: white;
-}
-*/
-
-.doi  {
+.doi {
   color: #FFFFFF;
-  background-color: #164C99;
+  background-color: $link-color;
+
+  &:active,
+  &:visited {
+    color: #FFFFFF;
+    background-color: $link-color;
+  }
 }
 
-.doi.chip:active  {
-  color: #FFFFFF;
-  background-color: #164C99;
-}
-
-.doi.chip:visited  {
-  color: #FFFFFF;
-  background-color: #164C99;
-}
-
-.accepted.chip  {
+.accepted {
   color: #000000;
   background-color: #16e4d7;
+
+  &:active,
+  &:visited {
+    color: #000000;
+    background-color: #41f1e5;
+  }
 }
 
-.accepted.chip:active  {
-  color: #000000;
-  background-color: #41f1e5;
-}
-
-.accepted.chip:visited  {
-  color: #000000;
-  background-color: #41f1e5;
-}
-
-.online  {
+.online {
   color: #FFFFFF;
   background-color: #2BAE23;
 }
 
-.award.chip  {
-  color: #164C99;
+.award {
+  color: $link-color;
   background-color: #D7E1FF;
 }
 
-.award.chip:active  {
-  color: #164C99;
-  background-color: #D7E1FF;
-}
-
-
-.material.chip  {
+.material {
   color: #D7E1FF;
   background-color: #046f00;
 }
 
-.material.chip:active  {
-  color: #D7E1FF;
-  background-color: #046f00;
-}
 /* mouse over link */
 a:hover {
   text-decoration: none;
@@ -340,7 +298,6 @@ a:hover {
 a:active {
   text-decoration: none;
 }
-
 
  .archive__item-excerpt {
   margin-top: 0;
@@ -357,11 +314,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #164C99;
+  color: $info-color;
 }
 
 a:focus, button:focus {
-  outline: thin dotted #164C99;
-  outline: 5px auto #164C99;
+  outline: thin dotted $info-color;
+  outline: 5px auto $info-color;
   outline-offset: -2px;
 }
