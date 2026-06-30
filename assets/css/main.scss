@@ -96,9 +96,20 @@ html {
     }
 
     .feature__item-teaser {
-      height: 500px;
-      max-height: 500px;
+      height: 350px;
+      max-height: 350px;
+      display: flex;
+      align-items: flex-end;      // Bild an den unteren Rand schieben
+      justify-content: center;    // optional: horizontal zentrieren
       overflow: hidden;
+
+      img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        max-height: 100%;
+      }
+
     }
   }
 
@@ -123,7 +134,6 @@ html {
     margin-right: 0;
     width: 100%;
     clear: both;
-// XXX    font-size: $type-size-2;
 
     .archive__item {
       float: left;
@@ -168,7 +178,6 @@ html {
     margin-right: 0;
     width: 100%;
     clear: both;
-// XXX    font-size: $type-size-3;
     text-align: justify;
 
     .archive__item {
