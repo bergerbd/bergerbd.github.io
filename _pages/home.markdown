@@ -38,7 +38,7 @@ Currently, I serve as a tenured Lecturer at the **[Hamburg University of Technol
 
 ## Core Research
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 ### Research Overview
 
