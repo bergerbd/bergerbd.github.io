@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/feature-static.svg
     title: "Program Comprehension & Static Analysis"
-    excerpt: "Developing frameworks for static program analysis and program comprehension, translating complex source code artifacts into structured, queryable models."
+    excerpt: "Developing frameworks for static program analysis and program comprehension, translating complex source code artifacts into structured, queryable models allowing to reason about the program behaviour."
     url: "#program-comprehension--static-analysis"
     btn_label: "More Details"
     btn_class: "btn--inverse"
