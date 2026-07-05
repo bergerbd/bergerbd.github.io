@@ -96,19 +96,16 @@ html {
     }
 
     .feature__item-teaser {
-      height: 350px;
-      max-height: 350px;
-      overflow: hidden;
-
       display: flex;
       align-items: flex-end;      // Bild an den unteren Rand schieben
       justify-content: center;    // optional: horizontal zentrieren
-    //  align-items: center;
+      
+      overflow: hidden;
     }
+  }
 
-    img {
-      width: 60%;
-    }
+  img {
+    width: 60%;
   }
 
   .archive__item-body {
@@ -135,10 +132,6 @@ html {
 
     .archive__item {
       float: left;
-    }
-
-    .archive__item-teaser {
-      margin-bottom: 2em;
     }
 
     a.btn::before {
@@ -332,3 +325,19 @@ a:focus, button:focus {
   outline: 5px auto $info-color;
   outline-offset: -2px;
 }
+
+
+    .archive__item-teaser {
+      height: 250px;
+      max-height: 250px;
+      min-height: 250px;
+
+      display: flex;
+      align-content: flex-end;
+      justify-content: center;
+    }
+
+    .page__hero--overlay {
+      background-size: contain;
+      background-position: 80%;
+    }

@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--inverse"
 author_profile: false
 header:
-  overlay_image: /assets/images/header-campus.jpg # Das Hintergrundbild
+  overlay_image: /assets/images/me.png # Das Hintergrundbild
   overlay_filter: 0.5 # Legt einen dunklen Schleier (50% Opazität) über das Bild, damit weißer Text lesbar bleibt
   title: "Dr. Bernhard J. Berger"
   excerpt: "Model-Driven Engineering &middot; Secure Systems &middot; Program Analysis"
