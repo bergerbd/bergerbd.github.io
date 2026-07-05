@@ -98,10 +98,12 @@ html {
     .feature__item-teaser {
       height: 350px;
       max-height: 350px;
+      overflow: hidden;
+
       display: flex;
       align-items: flex-end;      // Bild an den unteren Rand schieben
       justify-content: center;    // optional: horizontal zentrieren
-      overflow: hidden;
+    //  align-items: center;
     }
 
     img {
