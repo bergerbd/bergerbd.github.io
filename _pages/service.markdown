@@ -52,6 +52,9 @@ sustainable traffic organisation competition](https://evoal.de/pages/competition
 
 **2026** _Program Committee member_ for the *Explainable and Trustworthy Applications Track* of the Euromicro SEAA Conference.
 
+**2026** _Subreviewer_ for the **[IEEE International Conference on Computer Design (ICCD)](https://www.iccd-conf.com/)**. 
+
+
 **2023 &mdash; 2025** _Program Committee member_ for the **[International Conference on Availability, Reliability and Security (ARES 2023)](https://www.ares-conference.eu)**.
 
 **2018, 2023, 2024**, _Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2024)**.
