@@ -109,17 +109,21 @@ Engineering Secure Software and Systems (ESSoS)_. Springer, 2010. [DOI](https://
 ## 2. Model-Driven Optimization & DSLs (EvoAl Ecosystem)
 *Focus: Evolutionary and meta-heuristic optimization ecosystems, Domain-Specific Languages (DSLs) for codeless optimization, surrogate-modeling, and explainable AI in bio-inspired computing.*
 
+[50] _Sebastian Hübner, Lauren Paul, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **A 
+Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Problem**. In Proceedings
+of the _49th German Conference on Artificial Intelligence_, Bremen, Germany, 2026. [accepted](#){: .chip .accepted } 
+
 [49] _Nils Leusmann, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Enhancing Surrogate
 Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _GECCO'26 - The Genetic
-and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.  [accepted](#){: .chip .accepted}
+and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.  [DOI](https://doi.org/10.1145/3795101.3814674){: .chip .doi }
 
 [48] _Lauren Paul, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Can Explainability Metrics
 Improve Genetic Programming? Lessons from 2048**. In _GECCO'26 - The Genetic and Evolutionary Computation
-Conference Companion_, San José, Costa Rica, 2026.  [accepted](#){: .chip .accepted}
+Conference Companion_, San José, Costa Rica, 2026. [DOI](https://doi.org/10.1145/3795101.3814717){: .chip .doi } 
 
 [47] _Bernhard J. Berger, Christina Plump, and Rolf Drechsler_. **Ride-Sharing Simulation for Optimization**.
 In _GECCO'26 - The Genetic and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.
-[accepted](#){: .chip .accepted }
+[DOI](https://doi.org/10.1145/3795101.3814733){: .chip .doi }
 
 [45] _Rolf Drechsler, Christina Plump and Bernhard J. Berger_. **Explanation in Bio-inspired
 Computing: Towards Understanding of AI Systems**. 2025 International Conference on Artificial
@@ -215,9 +219,9 @@ Klonerkennung**. In _GI Jahrestagung(2)_. Gesellschaft für Informatik, 2008.
 [1] _Bernhard J. Berger_. **Klonmanagement: Klonerkennung für eingebettete Systeme**.
 Diploma Thesis, Universität Bremen, 2007.
 
+---
 
 ## 4. Miscellaneous
-
 
 [35] _Bernhard J. Beger and Goerschwin Fey_. **Informatik für Ingenieure an der Technischen Universität Hamburg**.
 In _INFORMATIK 2023 - Designing Futures: Zukünfte gestalten_, Bonn: Gesellschaft für Informatik e.V., 
