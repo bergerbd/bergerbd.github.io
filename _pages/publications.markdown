@@ -109,9 +109,9 @@ Engineering Secure Software and Systems (ESSoS)_. Springer, 2010. [DOI](https://
 ## 2. Model-Driven Optimization & DSLs (EvoAl Ecosystem)
 *Focus: Evolutionary and meta-heuristic optimization ecosystems, Domain-Specific Languages (DSLs) for codeless optimization, surrogate-modeling, and explainable AI in bio-inspired computing.*
 
-[50] _Sebastian Hübner, Lauren Paul, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **A 
-Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Problem**. In Proceedings
-of the _49th German Conference on Artificial Intelligence_, Bremen, Germany, 2026. [accepted](#){: .chip .accepted } 
+[50] _Lauren Paul, Sebastian Hübner, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **A 
+Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Problem**. In  _KI 2026:
+Advances in Artificial Intelligence_. Springer Nature Switzerland, 2026. [DOI](http://dx.do i.org/10.1007/978-3-032-32335-4_24){: .chip .doi } 
 
 [49] _Nils Leusmann, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Enhancing Surrogate
 Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _GECCO'26 - The Genetic
