@@ -111,7 +111,7 @@ Engineering Secure Software and Systems (ESSoS)_. Springer, 2010. [DOI](https://
 
 [50] _Lauren Paul, Sebastian Hübner, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **A 
 Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Problem**. In  _KI 2026:
-Advances in Artificial Intelligence_. Springer Nature Switzerland, 2026. [DOI](http://dx.do i.org/10.1007/978-3-032-32335-4_24){: .chip .doi } 
+Advances in Artificial Intelligence_. Springer Nature Switzerland, 2026. [DOI](http://dx.doi.org/10.1007/978-3-032-32335-4_24){: .chip .doi } 
 
 [49] _Nils Leusmann, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Enhancing Surrogate
 Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _GECCO'26 - The Genetic
