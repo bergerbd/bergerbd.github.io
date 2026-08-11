@@ -109,6 +109,10 @@ Engineering Secure Software and Systems (ESSoS)_. Springer, 2010. [DOI](https://
 ## 2. Model-Driven Optimization & DSLs (EvoAl Ecosystem)
 *Focus: Evolutionary and meta-heuristic optimization ecosystems, Domain-Specific Languages (DSLs) for codeless optimization, surrogate-modeling, and explainable AI in bio-inspired computing.*
 
+[51] _Bernhard J. Berger, Christina Plump, and Rolf Drechsler_. **Explainable Ride-Sharing
+Optimisation for Sustainable Traffic Organisation**. GECCO'26 Competition Poster. San José,
+Costa Rica, 2026. [DOI](http://dx.doi.org/10.5281/ZENODO.21539325){: .chip .doi } 
+
 [50] _Lauren Paul, Sebastian Hübner, Christina Plump, Bernhard J. Berger and Rolf Drechsler_. **A 
 Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Problem**. In  _KI 2026:
 Advances in Artificial Intelligence_. Springer Nature Switzerland, 2026. [DOI](http://dx.doi.org/10.1007/978-3-032-32335-4_24){: .chip .doi } 
