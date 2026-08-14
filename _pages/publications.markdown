@@ -118,15 +118,16 @@ Comparison of Repositioning and Scheduling Algorithms for the Ride-Hailing Probl
 Advances in Artificial Intelligence_. Springer Nature Switzerland, 2026. [DOI](http://dx.doi.org/10.1007/978-3-032-32335-4_24){: .chip .doi } 
 
 [49] _Nils Leusmann, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Enhancing Surrogate
-Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _GECCO'26 - The Genetic
-and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.  [DOI](https://doi.org/10.1145/3795101.3814674){: .chip .doi }
+Model Usability for Optimisation Experts through Extended ML Support in EvoAl**. In _Proceedings of the
+Genetic and Evolutionary Computation Conference Companion_, 2026, pp. 1499–1502.
+[DOI](https://doi.org/10.1145/3795101.3814674){: .chip .doi }
 
 [48] _Lauren Paul, Christina Plump, Bernhard J. Berger, and Rolf Drechsler_. **Can Explainability Metrics
-Improve Genetic Programming? Lessons from 2048**. In _GECCO'26 - The Genetic and Evolutionary Computation
-Conference Companion_, San José, Costa Rica, 2026. [DOI](https://doi.org/10.1145/3795101.3814717){: .chip .doi } 
+Improve Genetic Programming? Lessons from 2048**. In _Proceedings of the Genetic and Evolutionary Computation
+Conference Companion_, 2026, pp. 1135–1143. [DOI](https://doi.org/10.1145/3795101.3814717){: .chip .doi }
 
 [47] _Bernhard J. Berger, Christina Plump, and Rolf Drechsler_. **Ride-Sharing Simulation for Optimization**.
-In _GECCO'26 - The Genetic and Evolutionary Computation Conference Companion_, San José, Costa Rica, 2026.
+In _Proceedings of the Genetic and Evolutionary Computation Conference Companion_, 2026, pp. 1491–1494.
 [DOI](https://doi.org/10.1145/3795101.3814733){: .chip .doi }
 
 [45] _Rolf Drechsler, Christina Plump and Bernhard J. Berger_. **Explanation in Bio-inspired
