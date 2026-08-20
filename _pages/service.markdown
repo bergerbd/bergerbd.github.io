@@ -40,27 +40,25 @@ sustainable traffic organisation competition](https://evoal.de/pages/competition
 
 **2022 &mdash; 2026** _Program Committee member_ for the **[Mining Software Repositories Conference (MSR)](https://conf.researchr.org/home/msr-2026)**. 
 
-**2023 &mdash; 2026** _Program Committee member_ of the **[ACM/IEEE International Conference on Program Comprehension (ICPC 2026)](https://conf.researchr.org/home/icpc-2026)** [2023 Distinguished Reviewer Award](){: .chip .award}.
+**2023 &mdash; 2026** _Program Committee member_ of the **[ACM/IEEE International Conference on Program Comprehension (ICPC)](https://conf.researchr.org/home/icpc-2026)** [2023 Distinguished Reviewer Award](){: .chip .award}.
 
-**2026** _Subreviewer_ for the **[IEEE International Conference on Computer Design](https://www.iccd-conf.com/2026/home.html)**.
+**2026** _Subreviewer_ for the **[IEEE International Conference on Computer Design (ICCD)](https://www.iccd-conf.com/2026/home.html)**.
 
-**2026** _Reviewer_ for the **[World Congress on Computational Intelligence](https://attend.ieee.org/wcci-2026/)**.
+**2026** _Reviewer_ for the **[World Congress on Computational Intelligence (WCCI)](https://attend.ieee.org/wcci-2026/)**.
 
 **2026** _Program Committee member_ for the **[International Conference on Swarm Ingelligence (ICSI)](https://iasei.org/icsi2026/)**.
 
-**2026** _Program Commitee member_ for the [*Ideas, Visions and Reflections* track](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) at the [ACM International Conference on the Foundations of Software Engineering](https://conf.researchr.org/home/fse-2026).
+**2026** _Program Commitee member_ for the [*Ideas, Visions and Reflections* track](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) at the [ACM International Conference on the Foundations of Software Engineering (FSE](https://conf.researchr.org/home/fse-2026).
 
 **2026** _Program Committee member_ for the *Explainable and Trustworthy Applications Track* of the Euromicro SEAA Conference.
 
-**2026** _Subreviewer_ for the **[IEEE International Conference on Computer Design (ICCD)](https://www.iccd-conf.com/)**. 
+**2026 &mdash; 2027** _Program Committee member_ for the **[IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)](https://conf.researchr.org/home/saner-2026)**.
 
-
-**2023 &mdash; 2025** _Program Committee member_ for the **[International Conference on Availability, Reliability and Security (ARES 2023)](https://www.ares-conference.eu)**.
+**2023 &mdash; 2025** _Program Committee member_ for the **[International Conference on Availability, Reliability and Security (ARES)](https://www.ares-conference.eu)**.
 
 **2018, 2023, 2024**, _Artifact Evaluation Committee member_ for the **[ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2024)**.
 
 **2022 &mdash; 2023** _Sub-reviewer_ for the **[IEEE/ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com)**.
-
 
 
 ## Workshops
