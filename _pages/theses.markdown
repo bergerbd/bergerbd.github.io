@@ -9,6 +9,13 @@ layout: home
 ---
 
 ## 2026
+_Murat Uyar_. **Fine-Tuning kleiner Sprachmodelle zur Generierung von EvoAl-Code**.
+ _Bachelor Thesis_, University of Bremen, 2026.
+ 
+_David Schunk_. **Konzeption und Implementierung einer domänenspezifischen Sprache zur formalen
+Beschreibung und Ausführung von Optimierungsalgorithmen in EvoAl als Grundlage eines
+protokollbasierten Debuggers**. _Bachelor Thesis_, University of Bremen, 2026.
+
 _Lukas Duden_. **Visualizing the Inheritance Information of Bio-Inspired
 Algorithms**. _Project Work_, Hamburg University of Technology, 2026.
 
