@@ -8,6 +8,22 @@ classes: wide
 layout: home
 ---
 
+## Winter Term 2026/2027
+_Informatik-Ingenieurwesen Projekt: SEEAS 2.0_. **Dr. rer. nat.
+Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University of Technology.
+
+_Computer Science for Engineers_. **Dr. rer. nat. Bernhard  J. Berger and Prof.
+Dr. Görschwin Fey**. Hamburg University of Technology. 
+
+## Summer Term 2026
+_Computer Science for Engineers, revision course_. **Dr. rer. nat.
+Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
+of Technology. 
+
+_Hardware Security Seminar_. **Srinidhi Rathnakar Ganiga, Dr. rer. nat.
+Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University
+of Technology. 
+
 ## Winter Term 2025/2026
 _Informatik-Ingenieurwesen Projekt: SEEAS_. **Swantje Plambeck, Dr. rer. nat.
 Bernhard J. Berger and Prof. Dr. Görschwin Fey**. Hamburg University of Technology.
