@@ -9,6 +9,9 @@ layout: home
 ---
 
 ## 2026
+_Juliana Walther_. **Application of Explanation Framework on Self-Explaining Game Policies**.
+ _Bachelor Thesis_, University of Bremen, 2026.
+
 _Murat Uyar_. **Fine-Tuning kleiner Sprachmodelle zur Generierung von EvoAl-Code**.
  _Bachelor Thesis_, University of Bremen, 2026.
  
